@@ -3,25 +3,6 @@
 
 
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFKHLixChlWZjE_uxSyyPEarLNE8IcS98kMuW2TFlcK_OtEEb5XExAzcc&s=10", Barcelona ‣ Atlético Madrid
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8
-
-
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFKHLixChlWZjE_uxSyyPEarLNE8IcS98kMuW2TFlcK_OtEEb5XExAzcc&s=10", Barcelona ‣ Atlético Madrid
-https://live.inplyr.com/room/532081.m3u8
-
-
-EXTINF:-1 tvg-logo="https://cdn.verticalvideo.premierleaguedigital.com/games/6a9c15755566cb2f407829fb3637de52/8accf812-03b9-4fa3-96aa-5158ec54defa.jpg", Arsenal ‣ Brentford
-https://hls.cdnok9.com/live/LUUBI/index.m3u8
-
-
-EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Governor_web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0dvdmVybm9yX3dlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==", Ind ‣ Aus
-https://in-mc-fdlive.fancode.com/mumbai/140367_english_hls_f6facd47f467778_1ta-di_h264/index.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NXcpeeoQF3y-XNYxw42xqikS7FJVC_fcP8FWHUBoL-PWhd6FCG9Jox60lPjZTTvpTzZxio76Og=s900-c-k-c0x00ffffff-no-rj", Sky Cricket
 https://wasitv-pro.site/dd.php?c=skyscric
