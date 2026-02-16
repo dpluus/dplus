@@ -1,0 +1,69 @@
+#EXTM3U
+
+
+
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFKHLixChlWZjE_uxSyyPEarLNE8IcS98kMuW2TFlcK_OtEEb5XExAzcc&s=10", Barcelona ‣ Atlético Madrid
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8
+
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFKHLixChlWZjE_uxSyyPEarLNE8IcS98kMuW2TFlcK_OtEEb5XExAzcc&s=10", Barcelona ‣ Atlético Madrid
+https://live.inplyr.com/room/532081.m3u8
+
+
+EXTINF:-1 tvg-logo="https://cdn.verticalvideo.premierleaguedigital.com/games/6a9c15755566cb2f407829fb3637de52/8accf812-03b9-4fa3-96aa-5158ec54defa.jpg", Arsenal ‣ Brentford
+https://hls.cdnok9.com/live/LUUBI/index.m3u8
+
+
+EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Governor_web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0dvdmVybm9yX3dlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==", Ind ‣ Aus
+https://in-mc-fdlive.fancode.com/mumbai/140367_english_hls_f6facd47f467778_1ta-di_h264/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NXcpeeoQF3y-XNYxw42xqikS7FJVC_fcP8FWHUBoL-PWhd6FCG9Jox60lPjZTTvpTzZxio76Og=s900-c-k-c0x00ffffff-no-rj", Sky Cricket
+https://wasitv-pro.site/dd.php?c=skyscric
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMCzGRtz_Jnp9U8B5eZHJBK6-pjY0G3nkVgut2rRRjw&s=10", T20 UHD
+https://allinonereborn.xyz/push4k/live299.php?id=22144
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMCzGRtz_Jnp9U8B5eZHJBK6-pjY0G3nkVgut2rRRjw&s=10", T20 UHD
+https://allinonereborn.xyz/push4k/live299.php?id=18294
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/960px-Star_Sports_1_HD.png", Star Sports 1
+https://wasitv-pro.site/dd.php?c=star1in
+
+
+#EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/1600x0/filters:format(webp)/https://image.airtel.tv/content/XSTREAMADS/undefined/XSTREAMADS_VIDEO_65854223b7f4303b98b1626d/Star_Sports_1_HD_Hindi.png?o=production", Star Sports 1 Hindi
+https://wasitv-pro.site/dd.php?c=starhindi
+
+#EXTINF:-1 tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png", Willow Sports
+https://wasitv-pro.site/dd.php?c=willowusa
+
+
+#EXTINF:-1 tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_2_blue_logo.fa6b253.png", Willow Sports 2
+https://wasitv-pro.site/dd.php?c=willowextra
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/L5QdK6pZeHse9Lz9uG5p7hJ1BMdE_uqIMM7WSxBKVRBi83dTHvUNOYPJ4FIg36ZSypI", TNT Sports 1
+https://wasitv-pro.site/dd.php?c=bbtsp1
+
+#EXTINF:-1 tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_2.jpg", TNT Sports 2
+https://wasitv-pro.site/dd.php?c=bbtsp2
+
+#EXTINF:-1 tvg-logo="https://d16ia5iwuvax6y.cloudfront.net/uk-images/22d97afcec1cc2cc9927067932193ffd.png?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dNycmvdUNaC4z28rJUvfRMEAeNQw%2BSsd7xr%2Bq%2B90qcQuEewJpetQRU6JN5r%2BwewsCHAq%2F7Ecmo3BsXFXOM5piHkP%2F0t4ehdSH65gvRrh2Zsw%3D%3D", TNT Sports 3
+https://wasitv-pro.site/dd.php?c=bbtsp3
+
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png", TNT Sports 4
+https://wasitv-pro.site/dd.php?c=bbtespn
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", PTV Sports
+https://wasitv-pro.site/dd.php?c=ptvpk
