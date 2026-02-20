@@ -4,6 +4,10 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://indiawest.com/wp-content/uploads/2025/01/Willow-Sports-Launches-On-Prime-Video-In-US.webp", Willow Amazon
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae@HD" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
 
