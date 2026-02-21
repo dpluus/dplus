@@ -21,11 +21,11 @@ https://wasitv-pro.site/dd.php?c=skyscric
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/960px-Star_Sports_1_HD.png", group-title="Cricket", Star Sports 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/960px-Star_Sports_1_HD.png", group-title="Star Sports", Star Sports 1
 https://wasitv-pro.site/dd.php?c=star1in
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20240313194838", group-title="Cricket", Star Sports 1 Hindi
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20240313194838", group-title="Star Sports", Star Sports 1 Hindi
 https://wasitv-pro.site/dd.php?c=starhindi
 
 #EXTINF:-1 tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png", group-title="Cricket", Willow Sports
@@ -61,6 +61,22 @@ https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3c3b41f4c5f83f82011b90203c813508" group-title="Football",PSN 5 Sports
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
+
+
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://tvassets.roarzone.info/images/25.png",Star Sports 1
+https://edge2.roarzone.info:444/roarzone/edge2/star-sports-1/index.m3u8?token=3f7d07b7b1bce376590b03f9ebf36112636cb44a-d89c5528a3a80097bbb7592221eb232a-1771705149-1771694349
+
+
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://tvassets.roarzone.info/images/26.png",Star Sports 2
+https://edge2.roarzone.info:444/roarzone/edge2/star-sports-2/index.m3u8?token=5cb3f5ef79f56b3e5a903d93ed878985344a45f7-ce13eba883ba0be04924f8d83856948a-1771705149-1771694349
+
+
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://tvassets.roarzone.info/images/27.png",Star Sports Select 1
+https://edge2.roarzone.info:444/roarzone/edge2/star-sports-select-1/index.m3u8?token=a0a6dad950921a1b02a57fe28d4601f4cbf7b45d-3290d0373eff5af6aa74e4ba82ff0870-1771705149-1771694349
+
+
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://tvassets.roarzone.info/images/28.png",Star Sports Select 2
+https://edge2.roarzone.info:444/roarzone/edge2/star-sports-select-2/index.m3u8?token=5cc37ee564c9d74728670f187bf0b30d213a334d-2d60b90cebadb73d68c8292ee5db8872-1771705149-1771694349
 
 
 #EXTINF:-1 group-title="Sony" tvg-logo="https://tvassets.roarzone.info/images/20.png",Sony Sports 1
