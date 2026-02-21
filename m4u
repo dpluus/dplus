@@ -4,7 +4,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg?20200324181326" group-title="sports",Sky Sport Main Event
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg?20200324181326" group-title="Sports",Sky Sport Main Event
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
 #
 
@@ -60,6 +60,24 @@ https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3c3b41f4c5f83f82011b90203c813508" group-title="Football",PSN 5 Sports
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+
+
+
+#EXTINF:-1 group-title="Sony" tvg-logo="https://tvassets.roarzone.info/images/20.png",Sony Sports 1
+https://edge2.roarzone.info:444/roarzone/edge2/sony-sports-1-hd/index.m3u8?token=78390be68492880af35732132789230b6f61298b-3539c66f4476417cb2299f820af38bde-1771705149-1771694349
+
+
+#EXTINF:-1 group-title="Sony" tvg-logo="https://tvassets.roarzone.info/images/21.png",Sony Sports 2
+https://edge2.roarzone.info:444/roarzone/edge2/sony-sports-2-hd/index.m3u8?token=d3956d08bbfba5709a8b6abe48a272c3f646edb6-d234a47831c865016b80ebe2bd92ba6e-1771705149-1771694349
+
+
+#EXTINF:-1 group-title="Sony" tvg-logo="https://tvassets.roarzone.info/images/22.png",Sony Sports 3
+https://edge2.roarzone.info:444/roarzone/edge2/sony-sports-3-hd/index.m3u8?token=730a690aebb5f39a97c574e30464e16fc3ec0a58-110f4e562ee3ed20772b3b876558b45e-1771705149-1771694349
+
+
+#EXTINF:-1 group-title="Sony" tvg-logo="https://tvassets.roarzone.info/images/24.png",Sony Sports 5
+https://edge2.roarzone.info:444/roarzone/edge2/sony-sports-5-hd/index.m3u8?token=f6237110ebe8f3e0ded491d3f5a7cc76e7ef1309-63bff472c1d0930f51181759e4c9591e-1771705149-1771694349
+
 
 #EXTINF:-1 group-title="Sports"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png",FIFA+
 https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
