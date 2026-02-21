@@ -4,59 +4,83 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://indiawest.com/wp-content/uploads/2025/01/Willow-Sports-Launches-On-Prime-Video-In-US.webp", Willow Amazon
-https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae@HD" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
-
-#EXTINF:-1 tvg-id="AbuDhabiSports2.ae@SD" tvg-logo="https://i.imgur.com/y1I2jFK.png" group-title="Sports",Abu Dhabi Sports 2 (1080p)
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
-
-
-#EXTINF:-1 tvg-id=" pre" tvg-logo="https://i.imgur.com/y1I2jFK.png" group-title="Premier League",Tnl
-https://hls.cdnok9.com/live/TONLAP/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMCzGRtz_Jnp9U8B5eZHJBK6-pjY0G3nkVgut2rRRjw&s=10", T20 W-CUP
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMCzGRtz_Jnp9U8B5eZHJBK6-pjY0G3nkVgut2rRRjw&s=10", group-title="Cricket", T20 W-CUP
 https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NXcpeeoQF3y-XNYxw42xqikS7FJVC_fcP8FWHUBoL-PWhd6FCG9Jox60lPjZTTvpTzZxio76Og=s900-c-k-c0x00ffffff-no-rj", Sky Cricket
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NXcpeeoQF3y-XNYxw42xqikS7FJVC_fcP8FWHUBoL-PWhd6FCG9Jox60lPjZTTvpTzZxio76Og=s900-c-k-c0x00ffffff-no-rj", group-title="Cricket", Sky Cricket
 https://wasitv-pro.site/dd.php?c=skyscric
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/960px-Star_Sports_1_HD.png", Star Sports 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/960px-Star_Sports_1_HD.png", group-title="Cricket", Star Sports 1
 https://wasitv-pro.site/dd.php?c=star1in
 
 
-#EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/1600x0/filters:format(webp)/https://image.airtel.tv/content/XSTREAMADS/undefined/XSTREAMADS_VIDEO_65854223b7f4303b98b1626d/Star_Sports_1_HD_Hindi.png?o=production", Star Sports 1 Hindi
+#EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/1600x0/filters:format(webp)/https://image.airtel.tv/content/XSTREAMADS/undefined/XSTREAMADS_VIDEO_65854223b7f4303b98b1626d/Star_Sports_1_HD_Hindi.png?o=production", group-title="Cricket", Star Sports 1 Hindi
 https://wasitv-pro.site/dd.php?c=starhindi
 
-#EXTINF:-1 tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png", Willow Sports
+#EXTINF:-1 tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png", group-title="Cricket", Willow Sports
 https://wasitv-pro.site/dd.php?c=willowusa
 
 
-#EXTINF:-1 tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_2_blue_logo.fa6b253.png", Willow Sports 2
+#EXTINF:-1 tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_2_blue_logo.fa6b253.png", group-title="Cricket", Willow Sports 2
 https://wasitv-pro.site/dd.php?c=willowextra
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/L5QdK6pZeHse9Lz9uG5p7hJ1BMdE_uqIMM7WSxBKVRBi83dTHvUNOYPJ4FIg36ZSypI", TNT Sports 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", group-title="Cricket", PTV Sports
+https://wasitv-pro.site/dd.php?c=ptvpk
+
+#EXTINF:-1 tvg-logo="https://indiawest.com/wp-content/uploads/2025/01/Willow-Sports-Launches-On-Prime-Video-In-US.webp", group-title="Cricket", Willow Amazon
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://www.cricexec.com/wp-content/uploads/2025/10/cricket-gold-logo-2025-300x169.webp" group-title="Cricket" , Cricket Gold  Old
+https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b0befd2d80789976ef317aeb5ef935b9" group-title="Football",PSN 1 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a6a66023b1ce294c3d0e8ebf256fa5f7" group-title="Football",PSN 2 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bcfc4d063ae30626ae0ffe998c74c272" group-title="Football",PSN 4 Sports
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3c3b41f4c5f83f82011b90203c813508" group-title="Football",PSN 5 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+
+#EXTINF:-1 group-title="Sports"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png",FIFA+
+https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports"  tvg-logo="https://goaltv.ca/static/media/goal-logo-color-1-rgb.84577cb6.png",Goal TV
+https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae@HD" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
+
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Ad_sport_2.jpg" group-title="Sports",Abu Dhabi Sports 2 (1080p)
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/L5QdK6pZeHse9Lz9uG5p7hJ1BMdE_uqIMM7WSxBKVRBi83dTHvUNOYPJ4FIg36ZSypI", group-title="Sports", TNT Sports 1
 https://wasitv-pro.site/dd.php?c=bbtsp1
 
-#EXTINF:-1 tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_2.jpg", TNT Sports 2
+#EXTINF:-1 tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_2.jpg", group-title="Sports",TNT Sports 2
 https://wasitv-pro.site/dd.php?c=bbtsp2
 
-#EXTINF:-1 tvg-logo="https://d16ia5iwuvax6y.cloudfront.net/uk-images/22d97afcec1cc2cc9927067932193ffd.png?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dNycmvdUNaC4z28rJUvfRMEAeNQw%2BSsd7xr%2Bq%2B90qcQuEewJpetQRU6JN5r%2BwewsCHAq%2F7Ecmo3BsXFXOM5piHkP%2F0t4ehdSH65gvRrh2Zsw%3D%3D", TNT Sports 3
+#EXTINF:-1 tvg-logo="https://d16ia5iwuvax6y.cloudfront.net/uk-images/22d97afcec1cc2cc9927067932193ffd.png?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dNycmvdUNaC4z28rJUvfRMEAeNQw%2BSsd7xr%2Bq%2B90qcQuEewJpetQRU6JN5r%2BwewsCHAq%2F7Ecmo3BsXFXOM5piHkP%2F0t4ehdSH65gvRrh2Zsw%3D%3D", group-title="Sports",TNT Sports 3
 https://wasitv-pro.site/dd.php?c=bbtsp3
 
-#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png", TNT Sports 4
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png", group-title="Sports",TNT Sports 4
 https://wasitv-pro.site/dd.php?c=bbtespn
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", PTV Sports
-https://wasitv-pro.site/dd.php?c=ptvpk
