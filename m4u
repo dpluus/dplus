@@ -43,10 +43,6 @@ https://wasitv-pro.site/dd.php?c=ptvpk
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://www.cricexec.com/wp-content/uploads/2025/10/cricket-gold-logo-2025-300x169.webp" group-title="Cricket" , Cricket Gold  Old
-https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
-
-
 #EXTINF:-1 group-title="Star Sports" tvg-logo="https://tvassets.roarzone.info/images/25.png",Star Sports 1
 https://edge2.roarzone.info:444/roarzone/edge2/star-sports-1/index.m3u8?token=3f7d07b7b1bce376590b03f9ebf36112636cb44a-d89c5528a3a80097bbb7592221eb232a-1771705149-1771694349
 
@@ -79,6 +75,9 @@ https://edge2.roarzone.info:444/roarzone/edge2/sony-sports-3-hd/index.m3u8?token
 https://edge2.roarzone.info:444/roarzone/edge2/sony-sports-5-hd/index.m3u8?token=f6237110ebe8f3e0ded491d3f5a7cc76e7ef1309-63bff472c1d0930f51181759e4c9591e-1771705149-1771694349
 
 
+
+#EXTINF:-1  tvg-logo="https://www.cricexec.com/wp-content/uploads/2025/10/cricket-gold-logo-2025-300x169.webp" group-title="Cricket" , Cricket Gold  Old
+https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 
 
 
