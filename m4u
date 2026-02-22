@@ -6,7 +6,7 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg?20200324181326" group-title="Sports",Sky Sport Main Event
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
-#
+
 
 
 
@@ -42,37 +42,6 @@ https://wasitv-pro.site/dd.php?c=ptvpk
 #EXTINF:-1 tvg-logo="https://indiawest.com/wp-content/uploads/2025/01/Willow-Sports-Launches-On-Prime-Video-In-US.webp", group-title="Cricket", Willow Amazon
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://tvassets.roarzone.info/images/25.png",Star Sports 1
-https://edge2.roarzone.info:444/roarzone/edge2/star-sports-1/index.m3u8?token=3f7d07b7b1bce376590b03f9ebf36112636cb44a-d89c5528a3a80097bbb7592221eb232a-1771705149-1771694349
-
-
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://tvassets.roarzone.info/images/26.png",Star Sports 2
-https://edge2.roarzone.info:444/roarzone/edge2/star-sports-2/index.m3u8?token=5cb3f5ef79f56b3e5a903d93ed878985344a45f7-ce13eba883ba0be04924f8d83856948a-1771705149-1771694349
-
-
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://tvassets.roarzone.info/images/27.png",Star Sports Select 1
-https://edge2.roarzone.info:444/roarzone/edge2/star-sports-select-1/index.m3u8?token=a0a6dad950921a1b02a57fe28d4601f4cbf7b45d-3290d0373eff5af6aa74e4ba82ff0870-1771705149-1771694349
-
-
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://tvassets.roarzone.info/images/28.png",Star Sports Select 2
-https://edge2.roarzone.info:444/roarzone/edge2/star-sports-select-2/index.m3u8?token=5cc37ee564c9d74728670f187bf0b30d213a334d-2d60b90cebadb73d68c8292ee5db8872-1771705149-1771694349
-
-
-#EXTINF:-1 group-title="Sony" tvg-logo="https://tvassets.roarzone.info/images/20.png",Sony Sports 1
-https://edge2.roarzone.info:444/roarzone/edge2/sony-sports-1-hd/index.m3u8?token=78390be68492880af35732132789230b6f61298b-3539c66f4476417cb2299f820af38bde-1771705149-1771694349
-
-
-#EXTINF:-1 group-title="Sony" tvg-logo="https://tvassets.roarzone.info/images/21.png",Sony Sports 2
-https://edge2.roarzone.info:444/roarzone/edge2/sony-sports-2-hd/index.m3u8?token=d3956d08bbfba5709a8b6abe48a272c3f646edb6-d234a47831c865016b80ebe2bd92ba6e-1771705149-1771694349
-
-
-#EXTINF:-1 group-title="Sony" tvg-logo="https://tvassets.roarzone.info/images/22.png",Sony Sports 3
-https://edge2.roarzone.info:444/roarzone/edge2/sony-sports-3-hd/index.m3u8?token=730a690aebb5f39a97c574e30464e16fc3ec0a58-110f4e562ee3ed20772b3b876558b45e-1771705149-1771694349
-
-
-#EXTINF:-1 group-title="Sony" tvg-logo="https://tvassets.roarzone.info/images/24.png",Sony Sports 5
-https://edge2.roarzone.info:444/roarzone/edge2/sony-sports-5-hd/index.m3u8?token=f6237110ebe8f3e0ded491d3f5a7cc76e7ef1309-63bff472c1d0930f51181759e4c9591e-1771705149-1771694349
 
 
 
