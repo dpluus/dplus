@@ -2,6 +2,9 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://indiawest.com/wp-content/uploads/2025/01/Willow-Sports-Launches-On-Prime-Video-In-US.webp", group-title="Cricket", Willow Amazon
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg?20200324181326" group-title="Sports",Sky Sport Main Event
@@ -38,9 +41,6 @@ https://wasitv-pro.site/dd.php?c=willowextra
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", group-title="Cricket", PTV Sports
 https://wasitv-pro.site/dd.php?c=ptvpk
-
-#EXTINF:-1 tvg-logo="https://indiawest.com/wp-content/uploads/2025/01/Willow-Sports-Launches-On-Prime-Video-In-US.webp", group-title="Cricket", Willow Amazon
-https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
 
 
