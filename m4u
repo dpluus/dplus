@@ -5,11 +5,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMCzGRtz_Jnp9U8B5eZHJBK6-pjY0G3nkVgut2rRRjw&s=10", group-title="Cricket", T20 W-CUP
-https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NXcpeeoQF3y-XNYxw42xqikS7FJVC_fcP8FWHUBoL-PWhd6FCG9Jox60lPjZTTvpTzZxio76Og=s900-c-k-c0x00ffffff-no-rj", group-title="Cricket", Sky Cricket
 https://wasitv-pro.site/dd.php?c=skyscric
 
@@ -22,6 +17,13 @@ https://wasitv-pro.site/dd.php?c=star1in
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMyLdkV4TbRcNUResOrt1yi2ZjwjBNF2kds3KKi5csgw&s=10", group-title="Cricket", Star Sports 1 Hindi
 https://wasitv-pro.site/dd.php?c=starhindi
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMCzGRtz_Jnp9U8B5eZHJBK6-pjY0G3nkVgut2rRRjw&s=10", group-title="Cricket", T20 W-CUP
+https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png", group-title="Cricket", Willow Sports
 https://wasitv-pro.site/dd.php?c=willowusa
