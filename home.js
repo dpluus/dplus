@@ -1,3 +1,4 @@
+<script>
 const playlists = [
   { name: "Football ⚽", url: "go:fbl" },
   { name: "Cricket 🏏", url: "go:cri" },
@@ -20,3 +21,4 @@ playlists.forEach(item => {
 function closePopup() {
   document.getElementById("popup").style.display = "none";
 }
+</script>
