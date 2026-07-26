@@ -32,7 +32,7 @@
       "id": "ss1",
       "name": "Star Sports 1",
       "type": "iframe",
-      "iframeSrc": https://asifarena.pages.dev/?id=E1HD"
+      "iframeSrc":https://asifarena.pages.dev/?id=E1HD"
     },
 
 
