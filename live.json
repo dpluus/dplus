@@ -17,7 +17,7 @@
     "url": "https://rs-player.netlify.app/jw-player?url=https://playztv-apps.pages.dev/asports/index.m3u8",
     "source": "json"
   },
-  // {
+   {
     "name": "Star Sports 1",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/960px-Star_Sports_1_HD.png",
     "url": "https://rs-player.netlify.app/jw-player?url=https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8",
