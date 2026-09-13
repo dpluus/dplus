@@ -17,26 +17,26 @@
     "url": "https://rs-player.netlify.app/jw-player?url=https://playztv-apps.pages.dev/asports/index.m3u8",
     "source": "json"
   },
-  {
+  // {
     "name": "Star Sports 1",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/960px-Star_Sports_1_HD.png",
     "url": "https://rs-player.netlify.app/jw-player?url=https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8",
     "source": "json"
   },
-  {
+  // {
     "name": "Willow Cricbuzz",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10",
     "url": "https://rs-player.netlify.app/jw-player?url=https://playztv-apps.pages.dev/willow/index.m3u8",
     "source": "json"
   },
-  {
+ // {
     "name": "Willow Sports",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSDFd1LJqPQMhYnIIpskiG9muZ7WJbNJt3jcLxmAdbAgCs2pxLpww4N8k&s=10",
     "url": "https://rs-player.netlify.app/jw-player?url=https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8",
     "hidden": true,
     "source": "json"
   },
-  {
+ // {
     "name": "Euro Sports",
     "image": "https://i.ibb.co.com/svc0FSzY/images.webp",
     "url": "https://rs-player.netlify.app/jw-player?url=https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8",
@@ -44,15 +44,15 @@
     "source": "json"
   },
   {
-    "name": "Sony Sports 1",
-    "image": "https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",
-    "url": "https://rs-player.netlify.app/jw-player?url=https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8",
+    "name": "Sony Sports 2",
+    "image": "https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",
+    "url": "https://allrounder3-0.pages.dev/sony-2",
     "source": "json"
   },
   {
-    "name": "Sony Sports 2",
+    "name": "Sony Sports 3",
     "image": "https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",
-    "url": "https://rs-player.netlify.app/jw-player?url=https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8",
+    "url": "https://allrounder3-0.pages.dev/cricket/sony-3",
     "source": "json"
   },
   {
