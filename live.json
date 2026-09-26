@@ -4,31 +4,13 @@
   
 
 
-{
-    "name": "Liv 11",
-    "image": "",
-    "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-    "key": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e"
-  },
- 
-{
-    "name": " France ‣ Turkiye ",
-    "image": " https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024807/1790348947649514_UNL26_Turkey_vs_France_Tonight_landscape_thumb.jpg ",
-    "url": "  https://dplus25.blogspot.com/p/ss4.html "
-  },
- 
 
-{
-    "name": " Italy ‣ Belgium ",
-    "image": " https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024684/1790266675084970_UNL26_italy_vs_belgium_promo_landscape_thumb.jpg ",
-    "url": "  https://dplus25.blogspot.com/p/ss5.html "
-  },
- 
-{
-    "name": " Italy ‣ Belgium ",
-    "image": " https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024684/1790266675084970_UNL26_italy_vs_belgium_promo_landscape_thumb.jpg ",
-    "url": "  https://dplus25.blogspot.com/p/ss6.html "
-  },
+  {
+  "name": "Liv00",
+  "image": "",
+  "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+  "key": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e"
+},
  
   {
     "name": "Willow Sports",
