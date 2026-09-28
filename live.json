@@ -2,29 +2,42 @@
 
 [
   
-
-
-
- {
-    "name": " India ‣ Afghanistan    ",
-    "image": "   https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024994/1790471052970126_AG26_QF_IND_vs_AFG_promo_today_landscape_thumb.jpg  ",
-    "url": "    https://dplus25.blogspot.com/p/ss6.html  "
-  },
-
-
 {
-    "name": " India ‣ Afghanistan    ",
-    "image": "   https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024994/1790471052970126_AG26_QF_IND_vs_AFG_promo_today_landscape_thumb.jpg  ",
-    "url": "    https://dplus25.blogspot.com/p/ss5.html  "
-  },
-
- 
-  {
     "name": "Willow Sports",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSDFd1LJqPQMhYnIIpskiG9muZ7WJbNJt3jcLxmAdbAgCs2pxLpww4N8k&s=10",
     "url": "https://mtv-ply.blogspot.com/p/j.html?url=https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
     "source": "json"
   },
+
+{
+    "name": "Sony Sports 1",
+    "image": "https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",
+    "url": "https://mtv-ply.blogspot.com/p/j.html?url=https://crickcast-fam.pages.dev/api/proxy?u%3Dhttps://cloudplay-sonyliv.pages.dev/ten1.m3u8&m=1"
+  },
+  {
+    "name": "Sony Sports 2",
+    "image": "https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",
+    "url": "https://mtv-ply.blogspot.com/p/j.html?url=https://crickcast-fam.pages.dev/api/proxy?u%3Dhttps://cloudplay-sonyliv.pages.dev/ten2.m3u8&m=1"
+  },
+{
+    "name": "Sony Sports 3",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhoH2_95Z50LJypfpkCV0TAIe8bWjLJ1Wdo5hh9nCr1g&s",
+    "url": "https://mtv-ply.blogspot.com/p/j.html?url=https://crickcast-fam.pages.dev/api/proxy?u%3Dhttps://cloudplay-sonyliv.pages.dev/ten3.m3u8&m=1"
+  },
+{
+    "name": "Sony Sports 4",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8QqRnUCLtwWRjaWVMX9JNK9Vl5YxKPN6zvSPewhSD_Q&s=10",
+    "url": "https://mtv-ply.blogspot.com/p/j.html?url=https://crickcast-fam.pages.dev/api/proxy?u%3Dhttps://cloudplay-sonyliv.pages.dev/ten4.m3u8&m=1"
+  },
+  {
+    "name": "Sony Sports 5",
+    "image": "https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png",
+    "url": "https://mtv-ply.blogspot.com/p/j.html?url=https://crickcast-fam.pages.dev/api/proxy?u%3Dhttps://cloudplay-sonyliv.pages.dev/ten5.m3u8&m=1"
+  },
+
+
+ 
+  
 
 {
     "name": "   A Sports ",
@@ -78,21 +91,6 @@
     "url": " https://embedindia.st/embed/247-fox-cricket "
   },
 
-{
-    "name": "Sony Sports 1",
-    "image": "https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",
-    "url": "https://mtv-ply.blogspot.com/p/j.html?url=https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8"
-  },
-  {
-    "name": "Sony Sports 2",
-    "image": "https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",
-    "url": "https://mtv-ply.blogspot.com/p/j.html?url=https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8"
-  },
-  {
-    "name": "Sony Sports 5",
-    "image": "https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png",
-    "url": "https://mtv-ply.blogspot.com/p/j.html?url=https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8"
-  },
 
 {
     "name": "   beIN Sports ",
