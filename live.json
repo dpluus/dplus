@@ -4,13 +4,9 @@
   
 
 {
-    "name": "   India ‣ Sri Lanka ",
-    "image": "  https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025246/1790659961380403_AG_INDvsSL_SF_today_landscape_thumb.jpg",
+    "name": "   Portugal ‣ Denmark  ",
+    "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025459/17908103569975_UNL2627_denmark_vs_portugal_tonight_promo_landscape_thumb.jpg   ",
     "links": [
-{
-        "name": " Sony Sports ",
-        "url": "  https://mtv-ply.blogspot.com/p/j.html?url=https://backend.plusbox.tv/SonyTen1HD/tracks-v1/index.fmp4.m3u8?token=42e575653a391c0d4e1a110f7b182a2212332b6e-d0105ea7c61cae73d4aa07c29cdb8231-1790843209-1790832409"
-      },
     {
         "name": " Live 1 ",
         "url": "  https://dplus25.blogspot.com/p/ss3.html "
@@ -21,11 +17,57 @@
       },
       {
         "name": " Live 3 ",
-        "url": "  https://dplus25.blogspot.com/p/ss5.html "
+        "url": " https://mtv-ply.blogspot.com/p/j.html?url=https://live05.meung.app/live/78905744.m3u8   "
       },
       {
         "name": " Live 4 ",
-        "url": "  https://dplus25.blogspot.com/p/ss6.html "
+        "url": "   https://w6.sportsonliine.click/channels/pt/sporttv1.php "
+      }
+    
+    ]
+  },
+{
+    "name": "   Germany ‣ Serbia  ",
+    "image": "   ",
+    "links": [
+    {
+        "name": " Live 1 ",
+        "url": "  https://dplus25.blogspot.com/p/ss5.html "
+      },
+      {
+        "name": " Live 2 ",
+        "url": "    https://dplus25.blogspot.com/p/ss6.html "
+      },
+      {
+        "name": " Live 3 ",
+        "url": "   https://mtv-ply.blogspot.com/p/j.html?url=https://live05.meung.app/live/59444581.m3u8 "
+      },
+      {
+        "name": " Live 4 ",
+        "url": "  https://w6.sportsonliine.click/channels/pt/sporttv2.php  "
+      }
+    
+    ]
+  },
+{
+    "name": "  Netherlands ‣ Greece ",
+    "image": "https://i.ytimg.com/vi/oZvJwg1O4vE/maxresdefault.jpg  ",
+    "links": [
+    {
+        "name": " Live 1 ",
+        "url": "  https://dplus25.blogspot.com/p/l11_13.html?m=1 "
+      },
+      {
+        "name": " Live 2 ",
+        "url": "    https://dplus25.blogspot.com/p/l22_13.html "
+      },
+      {
+        "name": " Live 3 ",
+        "url": "   https://mtv-ply.blogspot.com/p/j.html?url=https://live05.meung.app/live/14707124.m3u8 "
+      },
+      {
+        "name": " Live 4 ",
+        "url": "  https://w6.sportsonliine.click/channels/pt/sporttv4.php  "
       }
     
     ]
@@ -67,6 +109,13 @@
 ]
 },
 
+{
+    "name": "  India ‣ Brazil ",
+    "image": " https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024997/1790476914887357_FIFA_international_friendlies_india_vs_brazil_rev_dated_landscape_thumb.jpg  ",
+    "url": "  https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8 "
+  },
+
+ 
 
 {
     "name": "Willow Sports",
@@ -134,7 +183,7 @@
 {
     "name": "Sony Sports 1",
     "image": "https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",
-    "url": " https://mtv-ply.blogspot.com/p/j.html?url=https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8 "
+    "url": " https://mtv-ply.blogspot.com/p/j.html?url=https://robitv.com/lps/https://ml-pull-dvc-myco.io:2096/TENSPORTS_HD/mono.m3u8 "
   },
   {
     "name": "Sony Sports 2",
