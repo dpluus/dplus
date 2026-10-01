@@ -5,9 +5,13 @@
 
 {
     "name": "   India ‣ Sri Lanka ",
-    "image": "  https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg",
+    "image": "  https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025246/1790659961380403_AG_INDvsSL_SF_today_landscape_thumb.jpg",
     "links": [
 {
+        "name": " Sony Sports ",
+        "url": "  https://mtv-ply.blogspot.com/p/j.html?url=https://backend.plusbox.tv/SonyTen1HD/tracks-v1/index.fmp4.m3u8?token=42e575653a391c0d4e1a110f7b182a2212332b6e-d0105ea7c61cae73d4aa07c29cdb8231-1790843209-1790832409"
+      },
+    {
         "name": " Live 1 ",
         "url": "  https://dplus25.blogspot.com/p/ss3.html "
       },
@@ -28,21 +32,6 @@
   },
 
 
-{
-    "name": " Bangladesh ‣ Pakistan ",
-    "image": "  https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025422/1790772771135414_AG26_pak_vs_ban_SF_live_landscpae_thumb.jpg",
-    "links": [
-{
-        "name": " Live 1 ",
-        "url": "  https://dplus25.blogspot.com/p/l11_13.html "
-      },
-      {
-        "name": " Live 2 ",
-        "url": "    https://strmfree.st/embed/cricket/willow1080p "
-      }
-    
-    ]
-  },
   {
     "name": "   All Football ",
     "image": "https://library.sportingnews.com/styles/crop_style_16_9_1280_webp/s3/2025-09/football-today_ftr_2025.png.webp?itok=nM__ozqa",
