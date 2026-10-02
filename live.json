@@ -4,8 +4,8 @@
   
 
 {
-    "name": "   Portugal ‣ Denmark  ",
-    "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025459/17908103569975_UNL2627_denmark_vs_portugal_tonight_promo_landscape_thumb.jpg   ",
+    "name": "   France ‣ Italy  ",
+    "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025579/1790884813328756_UNL2627_france_vs_italy_tonight_promo_landscape_thumb.jpg   ",
     "links": [
     {
         "name": " Live 1 ",
@@ -17,18 +17,18 @@
       },
       {
         "name": " Live 3 ",
-        "url": " https://mtv-ply.blogspot.com/p/j.html?url=https://live05.meung.app/live/33982309.m3u8   "
+        "url": " https://mtv-ply.blogspot.com/p/j.html?url=https://live05.meung.app/live/08552895.m3u8   "
       },
       {
         "name": " Live 4 ",
-        "url": "   https://w6.sportsonliine.click/channels/pt/sporttv1.php "
+        "url": "   https://w6.sportsonliine.click/channels/pt/sporttv2.php "
       }
     
     ]
   },
 {
-    "name": "   Germany ‣ Serbia  ",
-    "image": "   https://i.ytimg.com/vi/oZvJwg1O4vE/maxresdefault.jpg",
+    "name": "   Belgium ‣ Türkiye  ",
+    "image": "   https://i.ytimg.com/vi/5In3fRx0V6U/maxresdefault.jpg",
     "links": [
     {
         "name": " Live 1 ",
@@ -40,54 +40,7 @@
       },
       {
         "name": " Live 3 ",
-        "url": "   https://mtv-ply.blogspot.com/p/j.html?url=https://live05.meung.app/live/59444581.m3u8 "
-      },
-      {
-        "name": " Live 4 ",
-        "url": "  https://w6.sportsonliine.click/channels/pt/sporttv2.php  "
-      }
-    
-    ]
-  },
-{
-    "name": "  Netherlands ‣ Greece ",
-    "image": "  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlbtU_E5lw5GfPLM_zyvOKMhyjcvN5HnDiaTTWUtwD5g&s",
-    "links": [
-    {
-        "name": " Live 1 ",
-        "url": "  https://dplus25.blogspot.com/p/l11_13.html?m=1 "
-      },
-      {
-        "name": " Live 2 ",
-        "url": "    https://dplus25.blogspot.com/p/l22_13.html "
-      },
-      {
-        "name": " Live 3 ",
-        "url": "   https://mtv-ply.blogspot.com/p/j.html?url=https://live05.meung.app/live/14707124.m3u8 "
-      },
-      {
-        "name": " Live 4 ",
-        "url": "  https://w6.sportsonliine.click/channels/pt/sporttv4.php  "
-      }
-    
-    ]
-  },
-
-{
-    "name": "  Wales ‣ Norway ",
-    "image": "  https://www.sportinglife.com/images/news/945x532/48c0d9c2-9ea9-4e24-9e12-bade14c2f48c.jpg",
-    "links": [
-    {
-        "name": " Live 1 ",
-        "url": "  https://dplus25.blogspot.com/p/l33_28.html "
-      },
-      {
-        "name": " Live 2 ",
-        "url": "    https://dplus25.blogspot.com/p/l44_22.html "
-      },
-      {
-        "name": " Live 3 ",
-        "url": "   https://mtv-ply.blogspot.com/p/j.html?url=https://live05.meung.app/live/90865415.m3u8 "
+        "url": "   https://mtv-ply.blogspot.com/p/j.html?url=https://live05.meung.app/live/14830711.m3u8 "
       },
       {
         "name": " Live 4 ",
@@ -98,40 +51,88 @@
   },
 
 
+{
+    "name": "    Bahrain GP ",
+    "image": "   https://media.licdn.com/dms/image/v2/C5612AQHiXakt8m5VIg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520114902559?e=2147483647&v=beta&t=gpsPzRKfj148HxTRgEfYfz88P5HVMAhZaoiQCuSpo50",
+    "links": [
+    {
+        "name": " Live 1 ",
+        "url": "  https://w6.sportsonliine.click/channels/hd/hd5.php "
+      },
+      {
+        "name": " Live 2 ",
+        "url": "    https://w6.sportsonliine.click/channels/hd/hd7.php "
+      }
+    ]
+  },
+
+{
+    "name": "    Japan GP ",
+    "image": "   https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRzPLlwM8AoCjEzFPf1FmkaPnT-QXlwJX85k7pzbODQBHV2aS7ZTTjASk&s=10",
+    "links": [
+    {
+        "name": " Live 1 ",
+        "url": "  https://w6.sportsonliine.click/channels/hd/hd2.php "
+      },
+      {
+        "name": " Live 2 ",
+        "url": "    https://w6.sportsonliine.click/channels/bra/br6.php "
+      }
+    ]
+  },
+
   {
     "name": "   All Football ",
     "image": "https://library.sportingnews.com/styles/crop_style_16_9_1280_webp/s3/2025-09/football-today_ftr_2025.png.webp?itok=nM__ozqa",
     "links": [
   {
-    "name": "Azerbaijan x Liechtenstein",
+    "name": "Kazakhstan x Moldova",
     "url": "https://w6.sportsonliine.click/channels/hd/hd11.php"
   },
   {
-    "name": "Germany x Serbia",
-    "url": "https://w6.sportsonliine.click/channels/hd/hd3.php"
-  },
-  {
-    "name": "Denmark x Portugal",
-    "url": "https://w6.sportsonliine.click/channels/hd/hd6.php"
-  },
-  {
-    "name": "Malta x Gibraltar",
-    "url": "https://w6.sportsonliine.click/channels/hd/hd10.php"
-  },
-  {
-    "name": "Ireland Republic x Austria",
-    "url": "https://w6.sportsonliine.click/channels/hd/hd5.php"
-  },
-  {
-    "name": "Greece x Netherlands",
+    "name": "Cyprus x Armenia",
     "url": "https://w6.sportsonliine.click/channels/hd/hd4.php"
   },
   {
-    "name": "Wales x Norway",
+    "name": "Latvia x Montenegro",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd9.php"
+  },
+  {
+    "name": "Belgium x Türkiye",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd2.php"
+  },
+  {
+    "name": "France x Italy",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd6.php"
+  },
+  {
+    "name": "Hungary x Georgia",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd3.php"
+  },
+  {
+    "name": "Ukraine x Northern Ireland",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd5.php"
+  },
+  {
+    "name": "Bosnia-Herzegovina x Sweden",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd10.php"
+  },
+  {
+    "name": "Poland x Romania",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd8.php"
+  },
+  {
+    "name": "Faroe Islands x Slovakia",
     "url": "https://w6.sportsonliine.click/channels/hd/hd1.php"
   }
 ]
 },
+
+{
+    "name": "  India ‣ Pakistan ",
+    "image": " https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025541/1790855279020823_ag_indvs_pak_promo_dated_landscape_Thum.jpg  ",
+    "url": "  https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8 "
+  },
 
 {
     "name": "  India ‣ Brazil ",
@@ -162,13 +163,6 @@
 
          
   {
-    "name": " T Sports   ",
-    "image": " https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail  ",
-    "url": "  https://mtv-ply.blogspot.com/p/j.html?url=https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8   "
-  },
-     
-
-  {
     "name": "   Star Sports   ",
     "image": " https://thumb.wikimedia.org/wikipedia/en/thumb/2/22/Star_Sports_Network_logo.png/250px-Star_Sports_Network_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail  ",
     "url": "    https://mtv-ply.blogspot.com/p/j.html?url=https://tvsen7.aynascope.net/ssport2hd/tracks-v1a1/mono.ts.m3u8 "
@@ -186,17 +180,7 @@
 
        
 
-{
-    "name": "   Sky Cricket  ",
-    "image": " https://resources.ecb.co.uk/photo-resources/2023/05/24/d9fa6f3e-e9b3-44f8-b7ff-fc264cb129ea/SkySports.jpg?width=375&height=211  ",
-    "url": " https://mtv-ply.blogspot.com/p/j.html?url=https://papacito.cfd/m3u/now49499404/live.m3u8 "
-  },
-       
 
-       
-
-
-       
 {
     "name": " Fox Cricket ",
     "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEMFB_oUDQhKU0Kv7hrMDJeqRAISbDgFgWiz1Irqe0RYCfnkza_9NekUE&s=10 ",
@@ -209,29 +193,6 @@
     "image": "https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",
     "url": " https://mtv-ply.blogspot.com/p/j.html?url=https://robitv.com/lps/https://ml-pull-dvc-myco.io:2096/TENSPORTS_HD/mono.m3u8 "
   },
-  {
-    "name": "Sony Sports 2",
-    "image": "https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",
-    "url": "https://mtv-ply.blogspot.com/p/j.html?url=https://crickcast-fam.pages.dev/api/proxy?u%3Dhttps://cloudplay-sonyliv.pages.dev/ten2.m3u8&m=1"
-  },
-{
-    "name": "Sony Sports 3",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhoH2_95Z50LJypfpkCV0TAIe8bWjLJ1Wdo5hh9nCr1g&s",
-    "url": "https://mtv-ply.blogspot.com/p/j.html?url=https://crickcast-fam.pages.dev/api/proxy?u%3Dhttps://cloudplay-sonyliv.pages.dev/ten3.m3u8&m=1"
-  },
-{
-    "name": "Sony Sports 4",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8QqRnUCLtwWRjaWVMX9JNK9Vl5YxKPN6zvSPewhSD_Q&s=10",
-    "url": "https://mtv-ply.blogspot.com/p/j.html?url=https://crickcast-fam.pages.dev/api/proxy?u%3Dhttps://cloudplay-sonyliv.pages.dev/ten4.m3u8&m=1"
-  },
-  {
-    "name": "Sony Sports 5",
-    "image": "https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png",
-    "url": "https://mtv-ply.blogspot.com/p/j.html?url=https://crickcast-fam.pages.dev/api/proxy?u%3Dhttps://cloudplay-sonyliv.pages.dev/ten5.m3u8&m=1"
-  },
-
-
- 
 
 {
     "name": "   beIN Sports ",
