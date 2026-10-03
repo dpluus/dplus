@@ -35,10 +35,38 @@
     ]
   },
 
+
+
 {
-    "name": "  India ‣ Brazil ",
-    "image": " https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024997/1790476914887357_FIFA_international_friendlies_india_vs_brazil_rev_dated_landscape_thumb.jpg  ",
-    "url": "  https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8 "
+    "name": "   India ‣ Brazil  ",
+    "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024997/1790476914887357_FIFA_international_friendlies_india_vs_brazil_rev_dated_landscape_thumb.jpg   ",
+    "links": [
+    {
+        "name": " Live 1 ",
+        "url": "  https://dplus25.blogspot.com/p/ss6.html "
+      },
+      {
+        "name": " Live 2 ",
+        "url": "    https://dplus25.blogspot.com/p/ss5.html "
+      },
+      {
+        "name": " Live 3 ",
+        "url": " https://dplus25.blogspot.com/p/ss4.html   "
+      },
+{
+        "name": " Live 4 ",
+        "url": " https://dplus25.blogspot.com/p/ss3.html   "
+      },
+{
+        "name": " Live 5 ",
+        "url": " https://dplus25.blogspot.com/p/ss2.html   "
+      },
+                {
+        "name": " Live 6 ",
+        "url": "   https://dplus25.blogspot.com/p/ss1.html "
+      }
+    
+    ]
   },
 
 
@@ -78,44 +106,52 @@
     "image": "https://library.sportingnews.com/styles/crop_style_16_9_1280_webp/s3/2025-09/football-today_ftr_2025.png.webp?itok=nM__ozqa",
     "links": [
   {
-    "name": "Kazakhstan x Moldova",
-    "url": "https://w6.sportsonliine.click/channels/hd/hd11.php"
+    "name": "Finland x Albania",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd1.php"
   },
   {
-    "name": "Cyprus x Armenia",
-    "url": "https://w6.sportsonliine.click/channels/hd/hd4.php"
-  },
-  {
-    "name": "Latvia x Montenegro",
-    "url": "https://w6.sportsonliine.click/channels/hd/hd9.php"
-  },
-  {
-    "name": "Belgium x Türkiye",
-    "url": "https://w6.sportsonliine.click/channels/hd/hd2.php"
-  },
-  {
-    "name": "France x Italy",
-    "url": "https://w6.sportsonliine.click/channels/hd/hd6.php"
-  },
-  {
-    "name": "Hungary x Georgia",
-    "url": "https://w6.sportsonliine.click/channels/hd/hd3.php"
-  },
-  {
-    "name": "Ukraine x Northern Ireland",
+    "name": "Croatia x England",
     "url": "https://w6.sportsonliine.click/channels/hd/hd5.php"
   },
   {
-    "name": "Bosnia-Herzegovina x Sweden",
+    "name": "Belarus x San Marino",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd9.php"
+  },
+  {
+    "name": "Estonia x Luxembourg",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd1.php"
+  },
+  {
+    "name": "Iceland x Bulgaria",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd11.php"
+  },
+  {
+    "name": "Spain x Czech Republic",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd1.php"
+  },
+  {
+    "name": "North Macedonia x Scotland",
     "url": "https://w6.sportsonliine.click/channels/hd/hd10.php"
   },
   {
-    "name": "Poland x Romania",
+    "name": "Switzerland x Slovenia",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd3.php"
+  },
+  {
+    "name": "India x Brazil",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd10.php"
+  },
+  {
+    "name": "Canada x Peru",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd5.php"
+  },
+  {
+    "name": "Argentina x Burkina Faso",
     "url": "https://w6.sportsonliine.click/channels/hd/hd8.php"
   },
   {
-    "name": "Faroe Islands x Slovakia",
-    "url": "https://w6.sportsonliine.click/channels/hd/hd1.php"
+    "name": "USA x Mexico",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd10.php"
   }
 ]
 },
