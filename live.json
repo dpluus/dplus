@@ -6,33 +6,6 @@
 
 
 
-{
-    "name": "   India ‣ England ",
-    "image": " https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4524fa7f-ea9e-4903-8d2b-14d5c05a3b76/1/HERO-16X9/en-US._UR1920,1080_SX1080_FMjpg_.jpeg  ",
-    "links": [
-    {
-        "name": " Fancode ",
-        "url": "  https://mtv-ply.blogspot.com/p/fnn.html?id=4249223_eng&s=0&m=1  "
-      },
-      {
-        "name": " Willow Sports ",
-        "url": "    https://mtv-ply.blogspot.com/p/j.html?url=https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8 "
-      },
-      {
-        "name": " A Sports ",
-        "url": "  https://mtv-ply.blogspot.com/p/j.html?url=https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8&m=1  "
-      },
-    {
-        "name": " Star Sports ",
-        "url": "  https://mtv-ply.blogspot.com/p/j.html?url=https://tvsen7.aynascope.net/ssport2hd/tracks-v1a1/mono.ts.m3u8   "
-      },
-                {
-        "name": " Willow HD ",
-        "url": "   https://strmfree.st/embed/cricket/willow1080p  "
-      }
-    
-    ]
-  },
 
 {
     "name": "  Portugal ‣ Norway   ",
@@ -112,6 +85,29 @@
     ]
   },
 
+{
+    "name": "   Legends ",
+    "image": " https://storage.googleapis.com/cricinnings-uploads/uploads/img-1790867328288-0cd123b286fd862f3a289f6ad54aad34.jpg  ",
+    "links": [
+      {
+        "name": " Willow Sports ",
+        "url": "    https://mtv-ply.blogspot.com/p/j.html?url=https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8 "
+      },
+      {
+        "name": " A Sports ",
+        "url": "  https://mtv-ply.blogspot.com/p/j.html?url=https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8&m=1  "
+      },
+    {
+        "name": " Star Sports ",
+        "url": "  https://mtv-ply.blogspot.com/p/j.html?url=https://tvsen7.aynascope.net/ssport2hd/tracks-v1a1/mono.ts.m3u8   "
+      },
+                {
+        "name": " Willow HD ",
+        "url": "   https://strmfree.st/embed/cricket/willow1080p  "
+      }
+    
+    ]
+  },
 
 
 {
