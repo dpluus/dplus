@@ -8,8 +8,8 @@
 
 
 {
-    "name": "  Portugal ‣ Norway   ",
-    "image": "  https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025822/1791064274144264_UNL2627_Portugal_vs_Norway_tonight_promo_landscape_thumb.jpg  ",
+    "name": "  France ‣ Belgium   ",
+    "image": "  https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025823/1791065007677637_UNL2627_France_vs_Belgium_dated_promo_landscape_thumb.jpg  ",
     "links": [
     {
         "name": " Live 1 ",
@@ -25,7 +25,7 @@
       },
     {
         "name": " Live 4 ",
-        "url": "  https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-752382_lhd.m3u8&m=1  "
+        "url": "  https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-571291_lhd.m3u8&m=1  "
       },
       {
         "name": " Live 5 ",
@@ -34,56 +34,6 @@
     ]
   },
 
-
-{
-    "name": "   Germany ‣ Greece  ",
-    "image": "  https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/04/1791084887302_hy_lap_vs_duc_lflx.jpeg  ",
-    "links": [
-    {
-        "name": " Live 1 ",
-        "url": "   https://dplus25.blogspot.com/p/ss3.html "
-      },
-    {
-        "name": " Live 2 ",
-        "url": "   https://dplus25.blogspot.com/p/ss2_28.html "
-      },
-    {
-        "name": " Live 3 ",
-        "url": "   https://dplus25.blogspot.com/p/ss1.html "
-      },
-    {
-        "name": " Live 4 ",
-        "url": "  https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-746673_lhd.m3u8&m=1  "
-      },
-      {
-        "name": " Live 5 ",
-        "url": "    https://w6.sportsonliine.click/channels/pt/sporttv2.php  "
-      }
-    ]
-  },
-
-{
-    "name": "   Netherlands ‣ Serbia  ",
-    "image": "   https://i.ytimg.com/vi/2gzWX2ZvNXU/maxresdefault.jpg ",
-    "links": [
-    {
-        "name": " Live 1 ",
-        "url": "   https://dplus25.blogspot.com/p/l11_13.html "
-      },
-    {
-        "name": " Live 2 ",
-        "url": "  https://dplus25.blogspot.com/p/l22_13.html  "
-      },
-    {
-        "name": " Live 3 ",
-        "url": "   https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-551166_lhd.m3u8&m=1 "
-      },
-      {
-        "name": " Live 4 ",
-        "url": "    https://w6.sportsonliine.click/channels/pt/sporttv4.php  "
-      }
-    ]
-  },
 
 {
     "name": "   Legends ",
@@ -110,79 +60,49 @@
   },
 
 
-{
-    "name": "    Bahrain GP ",
-    "image": "   https://media.licdn.com/dms/image/v2/C5612AQHiXakt8m5VIg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520114902559?e=2147483647&v=beta&t=gpsPzRKfj148HxTRgEfYfz88P5HVMAhZaoiQCuSpo50",
-    "links": [
-    {
-        "name": " Live 1 ",
-        "url": "  https://w6.sportsonliine.click/channels/hd/hd5.php "
-      },
-      {
-        "name": " Live 2 ",
-        "url": "    https://w6.sportsonliine.click/channels/hd/hd7.php "
-      }
-    ]
-  },
-
-{
-    "name": "    Japan GP ",
-    "image": "   https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRzPLlwM8AoCjEzFPf1FmkaPnT-QXlwJX85k7pzbODQBHV2aS7ZTTjASk&s=10",
-    "links": [
-    {
-        "name": " Live 1 ",
-        "url": "  https://w6.sportsonliine.click/channels/hd/hd2.php "
-      },
-      {
-        "name": " Live 2 ",
-        "url": "    https://w6.sportsonliine.click/channels/bra/br6.php "
-      }
-    ]
-  },
-
   {
     "name": "   All Football ",
     "image": "https://library.sportingnews.com/styles/crop_style_16_9_1280_webp/s3/2025-09/football-today_ftr_2025.png.webp?itok=nM__ozqa",
     "links": [
   {
-    "name": "Azerbaijan x Lithuania",
+    "name": "Cyprus x Latvia",
     "url": "https://w6.sportsonliine.click/channels/hd/hd1.php"
   },
   {
-    "name": "Kosovo x Austria",
+    "name": "Italy x Turkey",
     "url": "https://w6.sportsonliine.click/channels/hd/hd1.php"
   },
   {
-    "name": "Malta x Andorra",
-    "url": "https://w6.sportsonliine.click/channels/bra/br1.php"
-  },
-  {
-    "name": "Ireland Republic x Israel",
-    "url": "https://w6.sportsonliine.click/channels/hd/hd5.php"
-  },
-  {
-    "name": "Portugal x Norway",
-    "url": "https://w6.sportsonliine.click/channels/hd/hd1.php"
-  },
-  {
-    "name": "Netherlands x Serbia",
+    "name": "France x Belgium",
     "url": "https://w6.sportsonliine.click/channels/hd/hd4.php"
   },
   {
-    "name": "Greece x Germany",
+    "name": "Ukraine x Hungary",
     "url": "https://w6.sportsonliine.click/channels/hd/hd3.php"
   },
   {
-    "name": "Wales x Denmark",
-    "url": "https://w6.sportsonliine.click/channels/hd/hd2.php"
+    "name": "Bosnia and Herzegovina x Poland",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd11.php"
   },
   {
-    "name": "Morocco x Mali",
-    "url": "https://w6.sportsonliine.click/channels/hd/hd6.php"
+    "name": "Northern Ireland x Georgia",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd5.php"
   },
   {
-    "name": "Egypt x South Africa",
-    "url": "https://w6.sportsonliine.click/channels/hd/hd9.php"
+    "name": "Romania x Sweden",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd8.php"
+  },
+  {
+    "name": "Martinique x El Salvador",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd1.php"
+  },
+  {
+    "name": "Guatemala x Suriname",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd1.php"
+  },
+  {
+    "name": "Honduras x Jamaica",
+    "url": "https://w6.sportsonliine.click/channels/hd/hd1.php"
   }
 ]
 },
