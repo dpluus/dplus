@@ -1,9 +1,9 @@
-     #EXTM3U
-
-
-
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%202.png" group-title="SPORTS",M LIVE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="CRICKET",Willow Cricbuzz
+https://strmfree.st/embed/cricket/willow1080p
