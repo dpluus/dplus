@@ -11,7 +11,7 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/mit
 #DPLUS-HIDE
 #DPLUS-LINK:Live 1|https://w6.sportsonliine.click/channels/hd/hd5.php
 #DPLUS-LINK:Live 2|https://w6.sportsonliine.click/channels/hd/hd7.php
-https://w6.sportsonliine.click/channels/hd/hd5.php
+https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="CRICKET",Willow Cricbuzzzz
@@ -24,16 +24,33 @@ https://strmfree.st/embed/cricket/willow1080p
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%202.png" group-title="SPORTS",M LIVE 244
+
+
+
+#EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/bPRWXyu4TV5BbZdd_768x432.jpg", 
+India ‣ West Indies 
+
+#DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/ss6.html
+#DPLUS-LINK:Live 2| https://dplus25.blogspot.com/p/ss5.html
+#DPLUS-LINK:Live 3| https://dplus25.blogspot.com/p/ss4.html
+#DPLUS-LINK:Live 4| https://dplus25.blogspot.com/p/ss3.html
+#DPLUS-LINK:Live 5| https://dplus25.blogspot.com/p/ss2_28.html
+#DPLUS-LINK:Live 6| https://dplus25.blogspot.com/p/ss1.html
+https://tinyurl.com/dpluzz
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%202.png" group-title="SPORTS", ssssssss
+#DPLUS-HIDE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="CRICKET",Willow Cricbuzzzz
 https://strmfree.st/embed/cricket/willow1080p
 
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C5612AQHiXakt8m5VIg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520114902559?e=2147483647&v=beta&t=gpsPzRKfj148HxTRgEfYfz88P5HVMAhZaoiQCuSpo50" group-title="SPORTS",Bahrain GP
-#DPLUS-LINK:Live 1|https://w6.sportsonliine.click/channels/hd/hd5.php
-#DPLUS-LINK:Live 2|https://w6.sportsonliine.click/channels/hd/hd7.php
-https://tinyurl.com/dpluzz
+
