@@ -45,6 +45,7 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025885/1791206957379442_UNL_Croatia_vs_Spain_promo_landscape_thumb_tonight.jpg", Spain ‣ Croatia 
+#DPLUS-HIDE
 #DPLUS-LINK:Sony Sports | https://sonucdn-v3.pages.dev/star?id=STEN1
 #DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/l11_13.html
 #DPLUS-LINK:Live 2| https://dplus25.blogspot.com/p/l22_13.html
@@ -55,6 +56,7 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xvEuLp0h7cU/maxresdefault.jpg", England ‣ Czechia 
+#DPLUS-HIDE
 #DPLUS-LINK:Sony Sports | https://sonucdn-v3.pages.dev/star?id=STEN2
 #DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/l44_22.html
 #DPLUS-LINK:Live 2| https://dplus25.blogspot.com/p/l55.html
@@ -65,12 +67,13 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/u_iaRzQmUbU2eZ0T_768x432.jpg", Argentina ‣ Benin 
+#DPLUS-LINK:Vix Play| https://dplus25.blogspot.com/p/l66.html
 #DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/ss6.html
 #DPLUS-LINK:Live 2| https://dplus25.blogspot.com/p/ss5.html
 #DPLUS-LINK:Live 3| https://dplus25.blogspot.com/p/ss4.html
 #DPLUS-LINK:Live 4| https://dplus25.blogspot.com/p/ss3.html
 #DPLUS-LINK:Live 5| https://dplus25.blogspot.com/p/ss2_28.html
-#DPLUS-LINK:Live 4| https://dplus25.blogspot.com/p/ss1.html
+#DPLUS-LINK:Live 6| https://dplus25.blogspot.com/p/ss1.html
 https://tinyurl.com/dpluzz
 
 
@@ -79,8 +82,7 @@ https://tinyurl.com/dpluzz
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/D_sKpL2lvUQ/maxresdefault.jpg" ,  Argentina ‣ Benin
-#DPLUS-HIDE
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/cricinnings-uploads/uploads/img-1790867328288-0cd123b286fd862f3a289f6ad54aad34.jpg" ,  Argentina ‣ Benin
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
