@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%202.png" group-title="SPORTS",M LIVE 1
+#DPLUS-HIDE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb308ff4c4ec835baa2956212507de52:aa45e839f15058df50342ace8d040a48
 https://a166aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd
@@ -42,14 +43,10 @@ https://tinyurl.com/dpluzz
 
 
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025885/1791206957379442_UNL_Croatia_vs_Spain_promo_landscape_thumb_tonight.jpg", Spain ‣ Croatia 
-#DPLUS-HIDE
-#DPLUS-LINK:Sony Sports | https://sonucdn-v3.pages.dev/star?id=STEN1
+#EXTINF:-1 tvg-logo="https://tmc.com.br/wp-content/uploads/2026/10/237881-onde-assistir-762x429.png", Santos ‣ Flamengo 
 #DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/l11_13.html
 #DPLUS-LINK:Live 2| https://dplus25.blogspot.com/p/l22_13.html
 #DPLUS-LINK:Live 3| https://dplus25.blogspot.com/p/l33_28.html
-#DPLUS-LINK:Live 4| https://w6.sportsonliine.click/channels/pt/sporttv1.php
-#DPLUS-LINK:Live 5| https://w6.sportsonliine.click/channels/hd/hd6.php
 https://tinyurl.com/dpluzz
 
 
