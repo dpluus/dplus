@@ -41,11 +41,6 @@ https://tinyurl.com/dpluzz
 
 
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IFA_Shield_FC-Web.png" group-title="SPORTS", IFA FINAL 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e
-https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
-
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025885/1791206957379442_UNL_Croatia_vs_Spain_promo_landscape_thumb_tonight.jpg", Spain ‣ Croatia 
 #DPLUS-HIDE
@@ -69,6 +64,9 @@ https://tinyurl.com/dpluzz
 https://tinyurl.com/dpluzz
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/cricinnings-uploads/uploads/img-1790867328288-0cd123b286fd862f3a289f6ad54aad34.jpg", Legends League 
 #DPLUS-LINK:Willow Sports| https://mtv-ply.blogspot.com/p/j.html?url=https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 #DPLUS-LINK:A Sports| https://mtv-ply.blogspot.com/p/j.html?url=https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8&m=1
@@ -84,6 +82,9 @@ https://tinyurl.com/dpluzz
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSDFd1LJqPQMhYnIIpskiG9muZ7WJbNJt3jcLxmAdbAgCs2pxLpww4N8k&s=10" ,  Willow Sports 
 https://mtv-ply.blogspot.com/p/j.html?url=https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="CRICKET",Willow Cricbuzzzz
+https://strmfree.st/embed/cricket/willow1080p
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/L2xHyMK9uTWMbezjiHwwc0m0Pc1Iqljy-4DjVuZ50OaMyPZCIhMkrzST7duEzC8tuBuvMLgsgrXhBE_9AwpWndQ" ,  A Sports 
