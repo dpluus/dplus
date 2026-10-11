@@ -28,7 +28,6 @@ https://strmfree.st/embed/cricket/willow1080p
 
 
 #EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/bPRWXyu4TV5BbZdd_768x432.jpg", India ‣ West Indies 
-#DPLUS-HIDE
 #DPLUS-LINK:TNT Sports| https://dplus25.blogspot.com/p/ss6.html
 #DPLUS-LINK:Star Sports|https://sonucdn-v3.pages.dev/star?id=E1HD
 #DPLUS-LINK:Live 2| https://dplus25.blogspot.com/p/ss5.html
@@ -40,15 +39,17 @@ https://strmfree.st/embed/cricket/willow1080p
 https://tinyurl.com/dpluzz
 
 
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/newspost/thumbs/1763826809PakistanvsSriLankaTri-Series.png" ,  Sri Lanka ‣ Pakistan 
-#DPLUS-HIDE
-https://mtv-ply.blogspot.com/p/j.html?url=https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Indian_Super_League_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" ,  I S L 
-#DPLUS-HIDE
-https://dplus25.blogspot.com/p/ss5.html
+https://dplus25.blogspot.com/p/l99.html
+
+
+
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/newspost/thumbs/1763826809PakistanvsSriLankaTri-Series.png" ,  Sri Lanka ‣ Pakistan 
+https://mtv-ply.blogspot.com/p/j.html?url=https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8&m=1
+
+
+
 
 
 
@@ -74,6 +75,7 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247644_53004_RM_VIL_FC-Web.png", Real Madrid ‣ Villarreal 
+#DPLUS-HIDE
 #DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/l55.html
 #DPLUS-LINK:Live 2| https://dplus25.blogspot.com/p/l66.html
 #DPLUS-LINK:Live 3| https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-613431_lhd.m3u8&m=1
@@ -82,6 +84,7 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/xrjwn8a172uspi9tudmp.png", Inter Miami ‣ D.C. United 
+#DPLUS-HIDE
 #DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/l99.html
 #DPLUS-LINK:Live 2| https://dplus25.blogspot.com/p/l88.html
 #DPLUS-LINK:Live 3| https://dplus25.blogspot.com/p/l77.html
@@ -90,6 +93,7 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/CvlU3n62g_zgXow3_768x432.jpg", Man UTD ‣ Tottenham 
+#DPLUS-HIDE
 #DPLUS-LINK:Star Sports Select|https://sonucdn-v3.pages.dev/star?id=SE1HD
 #DPLUS-LINK:Star Sports Select| https://mtv-ply.blogspot.com/p/j.html?url=https://live-xo.lovable.app/api/public/stream?u=https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 #DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/l33_28.html
@@ -99,7 +103,8 @@ https://tinyurl.com/dpluzz
 
 
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247647_53004_BAR_GEF_FC-Web.png", Barcelona ‣ Getafe 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247647_53004_BAR_GEF_FC-Web.png", Barcelona ‣ Getafe
+ #DPLUS-HIDE
 #DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/l44_22.html
 #DPLUS-LINK:Live 2| https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-238362_lhd.m3u8&m=1
 #DPLUS-LINK:Live 3| https://w6.sportsonliine.click/channels/pt/eleven2.php
