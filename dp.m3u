@@ -52,6 +52,7 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Indian_Super_League_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" ,  I S L 
+#DPLUS-HIDE
 https://dplus25.blogspot.com/p/l99.html
 
 
@@ -63,6 +64,10 @@ https://dplus25.blogspot.com/p/l88.html
 
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/newspost/thumbs/1763826809PakistanvsSriLankaTri-Series.png" ,  Sri Lanka ‣ Pakistan 
 #DPLUS-HIDE
+
+
+EXTINF:-1 #tvg-logo="https://assets.khelnow.com/news/uploads/2026/10/Al-Nassr-vs-Neftchi-Fergana.jpg" ,  Al-Nassr ‣ Neftchi Fergana 
+https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001791828495-0-0-f5dfbc884acf194f616f6d8b11816101
 
 
 
