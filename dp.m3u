@@ -144,8 +144,7 @@ https://tinyurl.com/dpluzz
 https://dplus25.blogspot.com/p/l11_13.html?m=1
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="SkyF1" tvg-name="Sky F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV0FNOrdta08FsjahGuJH_kUBR28MsDSYyJNX4hY_p&s=10" group-title="Sports",Sky F1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV0FNOrdta08FsjahGuJH_kUBR28MsDSYyJNX4hY_p&s=10", Sky Sports F1
 https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
 
 
