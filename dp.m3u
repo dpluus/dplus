@@ -138,18 +138,25 @@ https://tinyurl.com/dpluzz
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSDFd1LJqPQMhYnIIpskiG9muZ7WJbNJt3jcLxmAdbAgCs2pxLpww4N8k&s=10" ,  Willow Sports 
+https://mtv-ply.blogspot.com/p/j.html?url=https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/47d7os1502554865.png",  Sky Cricket 
-https://dplus25.blogspot.com/p/l11_13.html?m=1
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV0FNOrdta08FsjahGuJH_kUBR28MsDSYyJNX4hY_p&s=10", Sky Sports F1
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png", Sky Sports F1
 https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSDFd1LJqPQMhYnIIpskiG9muZ7WJbNJt3jcLxmAdbAgCs2pxLpww4N8k&s=10" ,  Willow Sports 
-https://mtv-ply.blogspot.com/p/j.html?url=https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png", Sky Premier League
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
+
+
+#EXTINF:-1 tvg-logo="https://www.britishhorseracing.com/wp-content/uploads/2019/04/Sky-Sports-Racing.jpg", Sky Racing 
+https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6bnWD3PZMSkhKk60sdV4sg&e=2075228089&scheme=https
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="CRICKET",Willow Cricbuzzzz
 https://strmfree.st/embed/cricket/willow1080p
