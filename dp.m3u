@@ -41,9 +41,10 @@ https://tinyurl.com/dpluzz
 
 
 
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedWebthumb/17919822871020x576.jpg" , Sri Lanka ‣ Pakistan
-#DPLUS-HIDE
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/newspost/thumbs/1791969483CricketClips.png" ,England ‣ Pakistan
+#DPLUS-TIME:13:15-19:30
 #DPLUS-LINK:Live 1|https://mtv-ply.blogspot.com/p/j.html?url=https://daviscup-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8
+#DPLUS-LINK: Amazon Prime | go:ama
 #DPLUS-LINK:Live 2| https://mtv-ply.blogspot.com/p/j.html?url=https://robitv.com/rn/http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
 #DPLUS-LINK:Live 3| https://mtv-ply.blogspot.com/p/j.html?url=https://tvsen5.aynaott.com/willowhd/index.m3u8
 #DPLUS-LINK:Live 4|https://strmfree.st/embed/cricket/willow1080p
