@@ -62,7 +62,6 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Indian_Super_League_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" ,  I S L 
-#DPLUS-HIDE
 https://dplus25.blogspot.com/p/l99.html
 
 
@@ -198,8 +197,8 @@ https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash-sd/enc/eay
 
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUSVSSA2NDTEST.png" group-title=" ",South Afria ‣ Australian
-#DPLUS-SHOW:17:45
-#DPLUS-HIDE:17:59
+#DPLUS-SHOW:18:45
+#DPLUS-HIDE:19:59
 #DPLUS-LINK:Fancode|go:fn
 #DPLUS-LINK:Football ⚽|go:fbl
 #DPLUS-LINK:William|go:willow
