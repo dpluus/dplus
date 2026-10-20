@@ -62,15 +62,18 @@ https://tinyurl.com/dpluzz
 
 
 
-#EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/ikFh73U9FTnEmTwV_768x432.jpg", Liverpool ‣ Man City
-#DPLUS-HIDE
-#DPLUS-LINK:Star Sports Select|https://sonucdn-v3.pages.dev/star?id=SE1HD
+#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000026424/1792060432660585_UCL26_PSG-vs-Barcelona_promo_DDT_landscape_thumb.jpg?w=500&q=low", PSG ‣ Barcelona
+#DPLUS-TIME:2026-10-20,23:00-03:00
+#DPLUS-LINK:TNT Sports |go:tnt2
+#DPLUS-LINK:Sony Sports |https://sonucdn-v3.pages.dev/star?id=STEN2
 #DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/l11_13.html
 #DPLUS-LINK:Live 2| https://dplus25.blogspot.com/p/l22_13.html
-#DPLUS-LINK:Live 3| https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-557437_lhd.m3u8&m=1
-#DPLUS-LINK:Live 4| https://w6.sportsonliine.click/channels/pt/eleven1.php
+#DPLUS-LINK:Live 3| https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-238362_lhd.m3u8&m=1
+#DPLUS-LINK:Live 4| https://ww1.sportsonnline.click/channels/pt/eleven1.php
 https://tinyurl.com/dpluzz
 
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p0m5wskq.jpg" ,  Champions League
+go:fbl
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Indian_Super_League_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" ,  I S L 
 #DPLUS-HIDE
