@@ -41,8 +41,18 @@ https://tinyurl.com/dpluzz
 
 
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUSVSSA2NDTEST.png" group-title=" ",South Afria ‣ Australia 
+#DPLUS-TIME:08.10-22:00
+#DPLUS-LINK:Fancode|go:fn
+#DPLUS-LINK:Amazon Prime |go:ama
+#DPLUS-LINK:Willow Sports |go:willow
+#DPLUS-LINK:Sky Cricket |go:skycri
+#DPLUS-LINK:A Sports |go:asports
+https://tinyurl.com/dpluzz
+
+
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/newspost/thumbs/1791969483CricketClips.png" ,England ‣ Pakistan
-#DPLUS-TIME:13:15-19:30
+#DPLUS-TIME:08:10-19:30
 #DPLUS-LINK:Live 1|https://mtv-ply.blogspot.com/p/j.html?url=https://daviscup-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8
 #DPLUS-LINK: Amazon Prime | go:ama
 #DPLUS-LINK:Live 2| https://mtv-ply.blogspot.com/p/j.html?url=https://robitv.com/rn/http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
@@ -63,7 +73,7 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Indian_Super_League_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" ,  I S L 
-#DPLUS-TIME:21:20-21:40
+#DPLUS-HIDE
 https://dplus25.blogspot.com/p/l99.html
 
 
@@ -78,76 +88,6 @@ https://dplus25.blogspot.com/p/l88.html
 https://mtv-ply.blogspot.com/p/j.html?url=https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 
-#EXTINF:-1 #tvg-logo="https://assets.khelnow.com/news/uploads/2026/10/Al-Nassr-vs-Neftchi-Fergana.jpg",  Al-Nassr ‣ Neftchi Fergana 
-#DPLUS-HIDE
-https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001791828495-0-0-f5dfbc884acf194f616f6d8b11816101 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/-yISdOKIenw2fE7d_768x432.jpg", Chelsea ‣ Bournemouth 
-#DPLUS-HIDE
-#DPLUS-LINK:Star Sports Select|https://sonucdn-v3.pages.dev/star?id=SE1HD
-#DPLUS-LINK:Star Sports Select| https://mtv-ply.blogspot.com/p/j.html?url=https://live-xo.lovable.app/api/public/stream?u=https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
-#DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/l22_13.html
-#DPLUS-LINK:Live 2| https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-746673_lhd.m3u8&m=1
-#DPLUS-LINK:Live 3| https://w6.sportsonliine.click/channels/pt/eleven1.php
-https://tinyurl.com/dpluzz
-
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247644_53004_RM_VIL_FC-Web.png", Real Madrid ‣ Villarreal 
-#DPLUS-HIDE
-#DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/l55.html
-#DPLUS-LINK:Live 2| https://dplus25.blogspot.com/p/l66.html
-#DPLUS-LINK:Live 3| https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-613431_lhd.m3u8&m=1
-#DPLUS-LINK:Live 4| https://w6.sportsonliine.click/channels/pt/eleven1.php
-https://tinyurl.com/dpluzz
-
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/3mv54pzvptwz/CoQGFIEaJEgqzgcYEgSJH/cecd77c046f311cd014db2bb967e0d05/presskit_capa_site_santos_x_atletico_mg.jpg", Santos ‣ Atlético Mineiro 
-#DPLUS-HIDE
-#DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/l99.html
-#DPLUS-LINK:Live 2| https://dplus25.blogspot.com/p/l88.html
-#DPLUS-LINK:Live 3| https://dplus25.blogspot.com/p/l77.html
-#DPLUS-LINK:Live 4| https://ww1.sportsonnline.click/channels/bra/br4.php
-https://tinyurl.com/dpluzz
-
-
-#EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/CvlU3n62g_zgXow3_768x432.jpg", Man UTD ‣ Tottenham 
-#DPLUS-HIDE
-#DPLUS-LINK:Star Sports Select|https://sonucdn-v3.pages.dev/star?id=SE1HD
-#DPLUS-LINK:Star Sports Select| https://mtv-ply.blogspot.com/p/j.html?url=https://live-xo.lovable.app/api/public/stream?u=https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
-#DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/l33_28.html
-#DPLUS-LINK:Live 2| https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-571291_lhd.m3u8&m=1
-#DPLUS-LINK:Live 3| https://w6.sportsonliine.click/channels/pt/eleven1.php
-https://tinyurl.com/dpluzz
-
-
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247647_53004_BAR_GEF_FC-Web.png", Barcelona ‣ Getafe
- #DPLUS-HIDE
-#DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/l44_22.html
-#DPLUS-LINK:Live 2| https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-238362_lhd.m3u8&m=1
-#DPLUS-LINK:Live 3| https://w6.sportsonliine.click/channels/pt/eleven2.php
-https://tinyurl.com/dpluzz
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo=" ", Real Madrid ‣ Sevilla  
-#DPLUS-HIDE
-#DPLUS-LINK:Live 1|https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001792346401-0-0-7a3529a91b4cdeba4b77a078f66ddafc
-#DPLUS-LINK:Live 2|https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8
-#DPLUS-LINK:Live 3|https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-613431_lhd.m3u8&m=1
-#DPLUS-LINK:Live 4|https://mtv-ply.blogspot.com/p/j.html?url=https://live05.meung.app/live/33982309.m3u8
-#DPLUS-LINK:Live 5|https://ww1.sportsonnline.click/channels/pt/eleven1.php
-https://tinyurl.com/dpluzz
-
 
 
 
@@ -155,33 +95,33 @@ https://tinyurl.com/dpluzz
 https://mtv-ply.blogspot.com/p/j.html?url=https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/47d7os1502554865.png",  Sky Cricket 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/47d7os1502554865.png" group-title="skycri",  Sky Cricket 
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 
 
-#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png", Sky Sports F1
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png"group-title="skyf1", Sky Sports F1
 https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
 
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png", Sky Premier League
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png"group-title="skyp", Sky Premier League
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
 
 
-#EXTINF:-1 tvg-logo="https://www.britishhorseracing.com/wp-content/uploads/2019/04/Sky-Sports-Racing.jpg", Sky Racing 
+#EXTINF:-1 tvg-logo="https://www.britishhorseracing.com/wp-content/uploads/2019/04/Sky-Sports-Racing.jpg" group-title="skyr", Sky Racing 
 https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6bnWD3PZMSkhKk60sdV4sg&e=2075228089&scheme=https
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="CRICKET",Willow Cricbuzzzz
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="willow1",Willow Cricbuz
 https://strmfree.st/embed/cricket/willow1080p
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/L2xHyMK9uTWMbezjiHwwc0m0Pc1Iqljy-4DjVuZ50OaMyPZCIhMkrzST7duEzC8tuBuvMLgsgrXhBE_9AwpWndQ" ,  A Sports 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/L2xHyMK9uTWMbezjiHwwc0m0Pc1Iqljy-4DjVuZ50OaMyPZCIhMkrzST7duEzC8tuBuvMLgsgrXhBE_9AwpWndQ"group-title="asports" ,  A Sports 
 https://mtv-ply.blogspot.com/p/j.html?url=https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8&m=1
 
 #EXTINF:-1 tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" ,  beIN Sports 
 https://mtv-ply.blogspot.com/p/j.html?url=https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_5fzGRMkkvFZGdU8sp7hDGgY2uv39s8Fjbb1thQUSuQ&s=10" ,  DD Sports 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_5fzGRMkkvFZGdU8sp7hDGgY2uv39s8Fjbb1thQUSuQ&s=10" group-title="dd",  DD Sports 
 https://mtv-ply.blogspot.com/p/j.html?url=https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8&m=1
 
 
@@ -198,9 +138,3 @@ https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash-sd/enc/eay
 
 
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUSVSSA2NDTEST.png" group-title=" ",South Afria ‣ aaa
-#DPLUS-TIME:21:20-21:45
-#DPLUS-LINK:Fancode|go:fn
-#DPLUS-LINK:Football ⚽|go:fbl
-#DPLUS-LINK:William|go:willow
-https://tinyurl.com/dpluzz
