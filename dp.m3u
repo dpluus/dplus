@@ -42,7 +42,7 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUSVSSA2NDTEST.png" group-title=" ",South Afria ‣ Australia 
-#DPLUS-TIME:13:20-23:00
+#DPLUS-TIME:13:20-21:30
 #DPLUS-LINK:Cricbuzz |https://freecdn.st/hembedplayer/csstream3/1/960/540
 #DPLUS-LINK:A Sports |go:asports
 #DPLUS-LINK:Fancode|go:fn
@@ -51,7 +51,7 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/newspost/thumbs/1791969483CricketClips.png" ,England ‣ Pakistan
-#DPLUS-TIME:2026-10-20,13:20-22:30
+#DPLUS-TIME:2026-10-20,13:20-21:30
 #DPLUS-LINK: CricLife|https://mtv-ply.blogspot.com/p/j.html?url=https://daviscup-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8
 #DPLUS-LINK: Siya TV | https://mtv-ply.blogspot.com/p/j.html?url=https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 #DPLUS-LINK: Amazon Prime | go:ama
@@ -63,7 +63,7 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000026424/1792060432660585_UCL26_PSG-vs-Barcelona_promo_DDT_landscape_thumb.jpg?w=500&q=low", PSG ‣ Barcelona
-#DPLUS-TIME:2026-10-20,23:00-03:00
+#DPLUS-TIME:22:05-03:00
 #DPLUS-LINK:TNT Sports |go:tnt2
 #DPLUS-LINK:Sony Sports |https://sonucdn-v3.pages.dev/star?id=STEN2
 #DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/l11_13.html
@@ -78,10 +78,6 @@ https://tinyurl.com/dpluzz
 #DPLUS-LINK: Star Hindi |https://sonucdn-v3.pages.dev/star?id=H1HD
 #DPLUS-LINK: Amazon Prime |go:ama
 
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b8hSa5FaWNQ/hq720.jpg?v=6ad74c04&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAFIx5JclZNv0CPXmGEkxUP4mYP2Q" ,  FC Goa ‣ Fortis FC 
-#DPLUS-TIME:2026-10-20,18:55-22:00
-https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key%3D3000001792504323-0-0-18aef0f44749372744e2dddb9ecccf15&m=1
 
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p0m5wskq.jpg" ,  Champions League
 #DPLUS-LINK:Watch Live |go:fbl
