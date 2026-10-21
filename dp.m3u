@@ -44,10 +44,12 @@ https://tinyurl.com/dpluzz
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUSVSSA2NDTEST.png" group-title=" ",South Afria ‣ Australia 
 #DPLUS-TIME:13:20-21:30
-#DPLUS-LINK:Cricbuzz |https://freecdn.st/hembedplayer/csstream3/1/960/540
 #DPLUS-LINK:A Sports |go:asports
+#DPLUS-LINK:Willow Cricket |go:willow1
+#DPLUS-LINK:Willow 1080p |go:willow2
 #DPLUS-LINK:Fancode|go:fn
 #DPLUS-LINK:Amazon Prime |go:ama
+#DPLUS-LINK:Cricbuzz |https://freecdn.st/hembedplayer/csstream3/1/960/540
 https://tinyurl.com/dpluzz
 
 
@@ -191,6 +193,9 @@ https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6b
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="willow1",Willow Cricbuz
+https://mtv-ply.blogspot.com/p/j.html?url=https://tvsen5.aynaott.com/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="willow2",Willow Cricbuz
 https://strmfree.st/embed/cricket/willow1080p
 
 
