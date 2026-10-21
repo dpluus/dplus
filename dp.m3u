@@ -54,12 +54,7 @@ https://tinyurl.com/dpluzz
 https://tinyurl.com/dpluzz
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv71FzJeeVBbcWASxgY8Qat8sdSephanm6IRPF6e2FtQ&s=10" group-title=" ",Afghanistan ‣ Bangladesh 
-#DPLUS-TIME:13:20-23:00
-#DPLUS-LINK:Fancode Live |go:fn1
-#DPLUS-LINK:T Sports |go:tsp
-#DPLUS-LINK:Fancode|go:fn
-#DPLUS-LINK:Amazon Prime |go:ama
+
 
 
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/newspost/thumbs/1791969483CricketClips.png" ,England ‣ Pakistan
@@ -74,7 +69,7 @@ https://tinyurl.com/dpluzz
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDWrESIEuUn_T_uY96BPQU0oOHsNbZV-hU7r9HT3IvMA&s=10", Man Utd ‣ Como
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2026/10/21/Screenshot_20261021_093321-3561734528.jpg", Man Utd ‣ Como
 #DPLUS-TIME:2026-10-21,21:45-00:20
 #DPLUS-LINK:TNT Sports |go:tnt2
 #DPLUS-LINK:Sony Sports |https://sonucdn-v3.pages.dev/star?id=STEN2
@@ -103,6 +98,12 @@ https://tinyurl.com/dpluzz
 https://tinyurl.com/dpluzz
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv71FzJeeVBbcWASxgY8Qat8sdSephanm6IRPF6e2FtQ&s=10" group-title=" ",Afghanistan ‣ Bangladesh 
+#DPLUS-TIME:13:20-23:20
+#DPLUS-LINK:Fancode Live |go:fn1
+#DPLUS-LINK:T Sports |go:tsp
+#DPLUS-LINK:Fancode|go:fn
+#DPLUS-LINK:Amazon Prime |go:ama
 
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKzynfVKkDeQNbptCREBA_c7nDEfA8s0FYcdaDSv4PoA&s" ,  India W ‣ Zimbabwe W
