@@ -47,12 +47,11 @@ https://strmfree.st/embed/cricket/willow1080p
 #DPLUS-TIME:13:20-21:30
 #DPLUS-LINK:Fancode Live |go:fn2
 #DPLUS-LINK:A Sports |go:asports
-#DPLUS-LINK:Willow Cricket |go:willow1
-#DPLUS-LINK:Willow 1080p |go:willow2
+#DPLUS-LINK:Willow Cricket |https://dlive.sx/stream/stream-38.php
 #DPLUS-LINK:Fancode|go:fn
 #DPLUS-LINK:Amazon Prime |go:ama
 #DPLUS-LINK:Cricbuzz |https://freecdn.st/hembedplayer/csstream3/1/960/540
-https://tinyurl.com/dpluzz
+
 
 
 
@@ -81,7 +80,7 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv71FzJeeVBbcWASxgY8Qat8sdSephanm6IRPF6e2FtQ&s=10" group-title=" ",Afghanistan ‣ Bangladesh 
-#DPLUS-TIME:13:20-23:20
+#DPLUS-TIME:2026-10-20,13:20-23:20
 #DPLUS-LINK:Fancode Live |go:fn1
 #DPLUS-LINK:T Sports |go:tsp
 #DPLUS-LINK:Fancode|go:fn
