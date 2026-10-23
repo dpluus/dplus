@@ -81,7 +81,7 @@ https://tinyurl.com/dpluzz
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLewILFow2pC_SdklGLx-SVz1QLL1QoLUPR8akvUXPOw&s=10" group-title=" ",Afghanistan ‣ Zimbabwe 
 #DPLUS-TIME:2026-10-23,16:50-00:59
-#DPLUS-LINK:Fancode Live |go:fn1
+#DPLUS-LINK: A Sports |go:asports
 #DPLUS-LINK: Willow Cricket |go:willow1
 #DPLUS-LINK:Fancode|go:fn
 #DPLUS-LINK:Amazon Prime |go:ama
@@ -96,7 +96,7 @@ https://tinyurl.com/dpluzz
 #DPLUS-LINK: Amazon Prime |go:ama
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Indian_Super_League_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" ,  I S L 
+#EXTINF:-1 tvg-logo="https://www.the-aiff.com/media/uploads/2026/02/ISL-1-800x500.jpg" ,  I S L 
 #DPLUS-TIME:2026-10-23,16:50-19:15
 https://dplus25.blogspot.com/p/l99.html
 
@@ -191,8 +191,7 @@ https://tvsen5.aynaott.com/willowhd/index.mpd
 https://strmfree.st/embed/cricket/willow1080p
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/L2xHyMK9uTWMbezjiHwwc0m0Pc1Iqljy-4DjVuZ50OaMyPZCIhMkrzST7duEzC8tuBuvMLgsgrXhBE_9AwpWndQ"group-title="asports" ,  A Sports 
-https://mtv-ply.blogspot.com/p/j.html?url=https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8&m=1
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/L2xHyMK9uTWMbezjiHwwc0m0Pc1Iqljy-4DjVuZ50OaMyPZCIhMkrzST7duEzC8tuBuvMLgsgrXhBE_9AwpWndQ"group-title="asports" ,  A Sports https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.mpd
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" "group-title="tsp" ,  T Sports 
 https://mtv-ply.blogspot.com/p/j.html?url=https://robitv.com/rn/http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8&m=1
