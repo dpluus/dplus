@@ -22,14 +22,20 @@ https://strmfree.st/embed/cricket/willow1080p
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrU1s-2XDgQdqFXsWR5vvnTVBrwIGz-ptO8poq2Zz5ig&s=10" group-title=" ",Al-Nassr ‣ Al-Faisaly 
-#DPLUS-TIME:2026-10-23,18:50-21:20
-#DPLUS-LINK: Live 1 |https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792761452-0-0-4174f2de04276870734f347a8516ac66
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8
-#DPLUS-LINK: Live 3|https://ww1.sportsonnline.click/channels/pt/sporttv1.php
-#DPLUS-LINK:Fancode|go:fn
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/6606/1792759866606-h" group-title=" ",Arsenal ‣ Everton 
+#DPLUS-TIME:2026-10-24,19:15-21:45
+#DPLUS-LINK: Live 1 |https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key%3D3000001792848780-0-0-4d4b4ae7f42b88ccef9e753efe79b6ff&m=1
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl004.com/live/6ad087284c3981dd68475913.m3u8
+#DPLUS-LINK: Live 3|https://ww1.sportsonnline.click/channels/pt/eleven1.php
 #DPLUS-LINK: More Live |go:fbl
 
+
+#EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/cR4nCOZHuSka5ZZW_768x432.jpg" group-title=" ",Chelsea ‣ Tottenham 
+#DPLUS-TIME:2026-10-24,21:45-00:15
+#DPLUS-LINK: Live 1 |https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key%3D3000001792849097-0-0-8254abb839b1075c901ed43862f5660f&m=1
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl004.com/live/69aa9525f5ec459ae275b43f.m3u8
+#DPLUS-LINK: Live 3|https://ww1.sportsonnline.click/channels/pt/eleven1.php
+#DPLUS-LINK: More Live |go:fbl
 
 
 
@@ -117,7 +123,7 @@ https://dplus25.blogspot.com/p/l99.html
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxM_1jyM96uM5auzIVikt53gHxnBGR4bLNR5BhSu3Gpw&s=10" ,  Super League
-#DPLUS-TIME:2026-10-23,18:15-21:30
+#DPLUS-TIME:2026-10-26,19:15-21:45
 https://dplus25.blogspot.com/p/l88.html
 
 
@@ -183,6 +189,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://amg01269-amg01269c1-sportstrib
 
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/47d7os1502554865.png" group-title="skycri",  Sky Cricket 
+#DPLUS-PLAYER:SHAKA
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 
 
