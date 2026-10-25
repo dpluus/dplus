@@ -1,5 +1,14 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FgVvdqYDmW4/maxresdefault.jpg?v=6adb9297" ,  Kerala Blasters ‣ Mumbai City
+#DPLUS-TIME:2026-10-25,16:45-21:45
+#DPLUS-LINK:Live 1|https://dplus25.blogspot.com/p/l99.html
+#DPLUS-LINK:Live 2|https://dplus25.blogspot.com/p/l88.html
+#DPLUS-LINK:Live 3|https://dplus25.blogspot.com/p/l77.html
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%202.png" group-title="SPORTS",M LIVE 1
 #DPLUS-HIDE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -119,7 +128,7 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://www.the-aiff.com/media/uploads/2026/02/ISL-1-800x500.jpg" ,  I S L 
-#DPLUS-TIME:2026-10-25,16:45-21:45
+#DPLUS-TIME:2026-10-24,19:15-21:45
 https://dplus25.blogspot.com/p/l99.html
 
 
