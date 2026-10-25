@@ -30,15 +30,19 @@ https://strmfree.st/embed/cricket/willow1080p
 
 
 #EXTINF:-1 tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/16x9barca-real.jpg?ve=1&tl=1" group-title="loading ",Barcelona ‣ Real Madrid
+#DPLUS-TIME:2026-10-25,00:01-04:40
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" https://ssl.gstatic.com/onebox/media/sports/videos/vita/wzCzTYZMZTX7VdFa_768x432.jpg " group-title=" ",Liverpool ‣ Brighton 
-#DPLUS-TIME:2026-10-25,19:15-21:40
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792926873-0-0-486535bbb8cc17acf518b7bbcf3af6f8
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8
-#DPLUS-LINK: Live 3|https://ww1.sportsonnline.click/channels/pt/eleven2.php
+#EXTINF:-1 tvg-logo=" https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/16x9barca-real.jpg?ve=1&tl=1 " group-title=" ",Barcelona ‣ Real Madrid
+#DPLUS-TIME:2026-10-26,00:01-04:40
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key%3D3000001792945177-0-0-af58cc0cd477ebe6f7fa3568f860ea0d&m=1
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://pull.niues.live/live/stream-9912141_lhd.m3u8
+#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8
+#DPLUS-LINK: Live 4 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-746673_lhd.m3u8&m=1
+#DPLUS-LINK: Live 5 | 
+#DPLUS-LINK: Live 6 |https://ww1.sportsonnline.click/channels/pt/eleven2.php
 #DPLUS-LINK: More Live |go:fbl
 
 
