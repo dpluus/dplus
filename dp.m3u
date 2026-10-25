@@ -87,15 +87,14 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/newspost/thumbs/1792608153ENGvsSLPreviewEnglandandSriLankaLooktoBounceBackinRawalpindi.png" ,England ‣ Sri Lanka 
-#DPLUS-TIME:2026-10-22,13:20-21:30
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/newspost/thumbs/1792608153ENGvsSLPreviewEnglandandSriLankaLooktoBounceBackinRawalpindi.png" ,England ‣ Pakistan 
+#DPLUS-TIME:2026-10-25,13:20-21:30
 #DPLUS-LINK: CricLife|https://mtv-ply.blogspot.com/p/j.html?url=https://daviscup-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8
+#DPLUS-LINK: Willow Cricbuz| go:willow1
 #DPLUS-LINK: Siya TV | https://mtv-ply.blogspot.com/p/j.html?url=https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 #DPLUS-LINK: Amazon Prime | go:ama
-#DPLUS-LINK:T Sports | https://mtv-ply.blogspot.com/p/j.html?url=https://robitv.com/rn/http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
-#DPLUS-LINK:Willow | go:ama
 #DPLUS-LINK:Sky Cricket |go:skycri
-https://tinyurl.com/dpluzz
+
 
 
 
@@ -118,16 +117,15 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0uRkYjiRggXubK-DsgVGcKtZjK-71MEthbwsQ_iOCA&s=10" ,  India W ‣ Zimbabwe W
-#DPLUS-TIME:2026-10-23,13:55-23:30
-#DPLUS-LINK: Willow Sports| go:willow
+#DPLUS-TIME:2026-10-25,13:55-23:30
 #DPLUS-LINK: Star Sports |https://sonucdn-v3.pages.dev/star?id=E2HD
-#DPLUS-LINK:TNT Sports| go:tnt2
-#DPLUS-LINK: Willow Cricbuz| go:willow1
+#DPLUS-LINK:TNT Sports| go:tnt4
+#DPLUS-LINK: Willow Sports| go:willow
 #DPLUS-LINK: Amazon Prime |go:ama
 
 
 #EXTINF:-1 tvg-logo="https://www.the-aiff.com/media/uploads/2026/02/ISL-1-800x500.jpg" ,  I S L 
-#DPLUS-TIME:2026-10-24,19:15-21:45
+#DPLUS-TIME:2026-10-25,16:45-21:45
 https://dplus25.blogspot.com/p/l99.html
 
 
