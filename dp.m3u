@@ -24,33 +24,27 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/fogjypliwvaj2jlfeugt.png" group-title=" ",Inter Miami  ‣ New York RB 
-#DPLUS-TIME:2026-10-24,19:15-05:45
-#DPLUS-LINK: Live 1 |https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792862930-0-0-b513c2fdf48bde920f9a500a7d7b8663
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-719763_lhd.m3u8
-#DPLUS-LINK: Live 3|https://ww1.sportsonnline.click/channels/hd/hd11.php
+#EXTINF:-1 tvg-logo=" https://ssl.gstatic.com/onebox/media/sports/videos/vita/wzCzTYZMZTX7VdFa_768x432.jpg " group-title=" ",Liverpool ‣ Brighton 
+#DPLUS-TIME:2026-10-25,19:15-21:40
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792926873-0-0-486535bbb8cc17acf518b7bbcf3af6f8
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8
+#DPLUS-LINK: Live 3|https://ww1.sportsonnline.click/channels/pt/eleven2.php
 #DPLUS-LINK: More Live |go:fbl
 
 
-#EXTINF:-1 tvg-logo=" https://images.ctfassets.net/3mv54pzvptwz/1NVrnOiYQ8KyS7EHVhSzrq/e1f99b5fa1075523d98f436f9d2552bc/presskit_capa_site_santos_x_bahia_02.jpg" group-title=" ",Santos ‣ Bahia 
-#DPLUS-TIME:2026-10-25,19:15-08:00
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-28.m3u8?auth_key%3D3000001792887300-0-0-76ff196a3aa61e3d8f890bdf62d75950&m=1
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8&m=1 
-#DPLUS-LINK: Live 3|https://ww1.sportsonnline.click/channels/bra/br5.php
-#DPLUS-LINK: More Live |go:fbl
-
-
-#EXTINF:-1 tvg-logo=" https://ssl.gstatic.com/onebox/media/sports/videos/vita/cR4nCOZHuSka5ZZW_768x432.jpg" group-title=" ",Chelsea ‣ Tottenham 
-#DPLUS-TIME:2026-10-24,21:45-00:15
-#DPLUS-LINK: Live 1 |https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key%3D3000001792849097-0-0-8254abb839b1075c901ed43862f5660f&m=1
+#EXTINF:-1 tvg-logo=" https://ssl.gstatic.com/onebox/media/sports/videos/vita/QaNBLsDWLvhFQs7a_768x432.jpg " group-title=" ",Man Utd ‣ Bournemouth 
+#DPLUS-TIME:2026-10-25,19:15-21:40
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792926789-0-0-77068defbb781c2ae3396c396b07671d
 #DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8
 #DPLUS-LINK: Live 3|https://ww1.sportsonnline.click/channels/pt/eleven1.php
 #DPLUS-LINK: More Live |go:fbl
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027058/1792690215612846_indvsnz_2nd_t20i_today_landscape_thumb.jpg", India ‣ New Zealand 
-#DPLUS-TIME:2026-10-24,11:00-18:00
+#DPLUS-TIME:2026-10-27,11:00-18:00
 #DPLUS-LINK: Willow Cricket | go:willow1
 #DPLUS-LINK:Sony English |https://sonucdn-v3.pages.dev/star?id=STEN5
 #DPLUS-LINK: Sony Hindi| https://sonucdn-v3.pages.dev/star?id=STEN3
