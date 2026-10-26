@@ -10,11 +10,11 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%202.png" group-title="SPORTS",M LIVE 1
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2022/02/cbs_sports_logo_on_light-2-9-22-USE-THIS-ONE.png" group-title="cbs", CBS Sports 
 #DPLUS-HIDE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb308ff4c4ec835baa2956212507de52:aa45e839f15058df50342ace8d040a48
-https://a166aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C5612AQHiXakt8m5VIg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520114902559?e=2147483647&v=beta&t=gpsPzRKfj148HxTRgEfYfz88P5HVMAhZaoiQCuSpo50" group-title="SPORTS",Bahrain gp
@@ -46,11 +46,11 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #DPLUS-LINK: More Live |go:fbl
 
 
-#EXTINF:-1 tvg-logo=" https://ssl.gstatic.com/onebox/media/sports/videos/vita/QaNBLsDWLvhFQs7a_768x432.jpg " group-title=" ",Man Utd ‣ Bournemouth 
-#DPLUS-TIME:2026-10-25,19:15-21:40
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792926789-0-0-77068defbb781c2ae3396c396b07671d
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8
-#DPLUS-LINK: Live 3|https://ww1.sportsonnline.click/channels/pt/eleven1.php
+#EXTINF:-1 tvg-logo=" https://image.discovery.indazn.com/ca/v2/ca/image?id=zz1wouv0vndr16rg7pd39k6hm_image-header_pRow_1792772917000&quality=70 " group-title=" ", Ballon d'Or 
+#DPLUS-LINK: Live 1 | go:cbs
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793036578-0-0-8c3801f19c478ff078fb8841b5baeaba
+#DPLUS-LINK: Live 3| https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8&m=1
+#DPLUS-LINK: Live 4 |https://ww1.sportsonnline.click/channels/pt/eleven1.php
 #DPLUS-LINK: More Live |go:fbl
 
 
@@ -63,7 +63,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #DPLUS-LINK:Sony English |https://sonucdn-v3.pages.dev/star?id=STEN5
 #DPLUS-LINK: Sony Hindi| https://sonucdn-v3.pages.dev/star?id=STEN3
 #DPLUS-LINK: Sony Tamil| https://sonucdn-v3.pages.dev/star?id=STENT
-#DPLUS-LINK:TNT Sports| go:tnt3
+#DPLUS-LINK:TNT Sports| go:tnt1
 #DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/ss6.html
 #DPLUS-LINK:Live 2| https://dplus25.blogspot.com/p/ss5.html
 #DPLUS-LINK:Live 3| https://dplus25.blogspot.com/p/ss4.html
@@ -244,3 +244,8 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://bein-esp-xumo.amagi.tv/playlis
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_5fzGRMkkvFZGdU8sp7hDGgY2uv39s8Fjbb1thQUSuQ&s=10" group-title="dd",  DD Sports 
 https://mtv-ply.blogspot.com/p/j.html?url=https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8&m=1
 
+
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2022/02/cbs_sports_logo_on_light-2-9-22-USE-THIS-ONE.png" group-title="cbs", CBS Sports 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
