@@ -6,7 +6,7 @@
 #DPLUS-LINK: English |https://dplus25.blogspot.com/p/l99.html
 #DPLUS-LINK: Malayalam |https://dplus25.blogspot.com/p/l88.html
 #DPLUS-LINK: Malayalam |https://dplus25.blogspot.com/p/l77.html
-#DPLUS-LINK: Hindi |https://www.youtube.com/embed/_fsWOwZIdSg
+#DPLUS-LINK: Hindi | 
 
 
 
@@ -35,12 +35,37 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" https://assets.khelnow.com/news/uploads/2026/10/49-East-Bengal-vs-AL-Seeb-copy.jpg " group-title=" ", East Bengal ‣ Al-Seeb
-#DPLUS-TIME:2026-10-27,21:15-23:45
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793112388-0-0-cb5b51a4d58254543f05380ef73f9bd4
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8
-#DPLUS-LINK: Live 3| https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-238362_lhd.m3u8&m=1
+#EXTINF:-1 tvg-logo=" https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/28/1793168307155_chelsea-vs-liverpool-jpg.webp " group-title=" ", Liverpool ‣ Chelsea
+#DPLUS-TIME:2026-10-29,00:00-04:00
+#DPLUS-LINK: beIN Sports | go:be3a
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-17.m3u8?auth_key%3D3000001793209264-0-0-9b42735ea5191721ea31bb155585e939&m=1
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl004.com/live/69f42e961f739deff81510c0.m3u8
+#DPLUS-LINK: Live 3| https://ww1.sportsonnline.click/channels/pt/sporttv3.php
 #DPLUS-LINK:Fancode|go:fn
+#DPLUS-LINK: More Live |go:fbl
+
+
+#EXTINF:-1 tvg-logo=" https://betbrothers.uk/wp-content/uploads/2026/10/man-city-brighton-four-players-v2-2200-1024x576.jpg.webp " group-title=" ", Man City ‣ Brighton
+#DPLUS-TIME:2026-10-29,00:00-04:00
+#DPLUS-LINK: beIN Sports | go:be2a
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key%3D3000001793209332-0-0-89b7949685dc5e1691071b58dc6d9e2e&m=1
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/6ad087284c3981dd68475913.m3u8&m=1
+#DPLUS-LINK: Live 3| https://ww1.sportsonnline.click/channels/hd/hd2.php
+#DPLUS-LINK:Fancode|go:fn
+#DPLUS-LINK: More Live |go:fbl
+
+
+#EXTINF:-1 tvg-logo=" https://images.ctfassets.net/3mv54pzvptwz/53qSZeidFkSwpFWDGaWgbp/889f35a355bbf2b06debc63d7d70ae94/presskit_capa_site_santos_x_palmeiras_02.jpg " group-title=" ", Santos ‣ Palmeiras
+#DPLUS-TIME:2026-10-29,00:00-06:45
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key%3D3000001793209729-0-0-2b82f45c4cfb331eb0e886cfb56ee3b5&m=1
+#DPLUS-LINK: Live 2 | https://ww1.sportsonnline.click/channels/bra/br1.php
+#DPLUS-LINK: More Live |go:fbl
+
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt1i42kqA7axigopseePh9L6lOD1YXJ4Mwmlijs3TNlR8kVvFkGY2JnSU&s=10 " group-title=" ", Inter Miami ‣ Cincinnati
+#DPLUS-TIME:2026-10-29,00:00-07:45
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793209830-0-0-6e8fcaf4c37cc1a25cd3b4f63277145c
+#DPLUS-LINK: Live 2 | https://ww1.sportsonnline.click/channels/hd/hd2.php
 #DPLUS-LINK: More Live |go:fbl
 
 
