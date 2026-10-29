@@ -70,7 +70,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUSVSSA2NDTEST.png" group-title=" ",South Afria ‣ Australia 
 #DPLUS-TIME:13:50-21:50
-#DPLUS-LINK:Cricbuzz |https://mtv-ply.blogspot.com/p/j.html?url=https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+#DPLUS-LINK:Cricbuzz |https://mtv-ply.blogspot.com/p/clp.html?url=https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 #DPLUS-LINK:Fancode Live |go:fn2
 #DPLUS-LINK:A Sports |go:asports
 #DPLUS-LINK:Willow Cricket |https://dlive.sx/stream/stream-38.php
@@ -81,7 +81,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQheQ2CEc4esjSNbFaORoUjTO9494mpT06wNneRtF9E8g&s=10" group-title=" ", Bangladesh ‣ West Indies 
 #DPLUS-TIME:09:20-17:00
-#DPLUS-LINK:Cricbuzz |https://mtv-ply.blogspot.com/p/j.html?url=https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#DPLUS-LINK:Cricbuzz |https://mtv-ply.blogspot.com/p/clp.html?url=https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #DPLUS-LINK:Fancode Live |go:fn1
 #DPLUS-LINK:Fancode All |go:fn
 
@@ -90,9 +90,9 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.cricbuzz.com/a/img/v1/1080x608/i1/c1109293/live-sri-lanka-vs-england-odi-tri-series-2026.jpg" , Sri Lanka ‣ England 
 #DPLUS-TIME:2026-10-29,13:20-21:45
-#DPLUS-LINK: CricLife|https://mtv-ply.blogspot.com/p/j.html?url=https://daviscup-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8
-#DPLUS-LINK: Siya TV | https://mtv-ply.blogspot.com/p/j.html?url=https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
-#DPLUS-LINK:Cricbuzz |https://mtv-ply.blogspot.com/p/j.html?url=https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+#DPLUS-LINK: CricLife|https://mtv-ply.blogspot.com/p/clp.html?url=https://daviscup-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8
+#DPLUS-LINK: Siya TV | https://mtv-ply.blogspot.com/p/clp.html?url=https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+#DPLUS-LINK:Cricbuzz |https://mtv-ply.blogspot.com/p/clp.html?url=https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #DPLUS-LINK: Amazon Prime | go:ama
 #DPLUS-LINK:Sky Cricket |go:skycri
 #DPLUS-LINK: Willow Cricbuz| go:willow2
