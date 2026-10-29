@@ -34,11 +34,11 @@ https://strmfree.st/embed/cricket/willow1080p
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt1i42kqA7axigopseePh9L6lOD1YXJ4Mwmlijs3TNlR8kVvFkGY2JnSU&s=10 " group-title=" ", Inter Miami ‣ Cincinnati
-#DPLUS-TIME:2026-10-29,00:00-07:45
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793209830-0-0-6e8fcaf4c37cc1a25cd3b4f63277145c
-#DPLUS-LINK: Live 2 | https://trend48.st/event/m-inter-miami-cf-vs-fc-cincinnati-1028
-#DPLUS-LINK: Live 3 | https://ww1.sportsonnline.click/channels/hd/hd2.php
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhdJu8faICpW4XQ723GJIUgFh0oCZj8PdHCFKYf-RlJIfEg8_YtnG4-Zg&s=10 " group-title=" ", Al-Nassr ‣ Al Kholood
+#DPLUS-TIME:23:20-02:00
+#DPLUS-LINK: Live 1 | go:sptv2
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793284499-0-0-0c037895b66ef3383c0e7986be3322b0
+#DPLUS-LINK: Live 3 | https://ww1.sportsonnline.click/channels/pt/sporttv4.php
 #DPLUS-LINK: More Live |go:fbl
 
 
@@ -56,8 +56,6 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #DPLUS-LINK:Live 4| https://dplus25.blogspot.com/p/ss3.html
 #DPLUS-LINK:Live 5| https://dplus25.blogspot.com/p/ss2_28.html
 #DPLUS-LINK: Astro Sports| go:willow2
-#DPLUS-LINK: Willow Cricket | go:willow1
-
 
 
 
@@ -126,7 +124,7 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://www.the-aiff.com/media/uploads/2026/02/ISL-1-800x500.jpg" ,  I S L 
-#DPLUS-TIME:2026-10-28,19:15-21:45
+#DPLUS-TIME:2026-10-30,19:15-21:45
 https://dplus25.blogspot.com/p/l99.html
 
 
@@ -251,13 +249,13 @@ https://abbfz7naaaaaaaamlleqwa446ufun.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/c
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sport_TV2_%282023%29.svg" group-title="sptv1", Sportv 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sport_TV2_%282023%29.svg" group-title="sptv2", Sportv 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sport_TV3_%282023%29.svg" group-title="sptv1", Sportv 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sport_TV3_%282023%29.svg" group-title="sptv3", Sportv 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
