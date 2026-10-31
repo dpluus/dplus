@@ -1,12 +1,12 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FgVvdqYDmW4/maxresdefault.jpg?v=6adb9297" ,  Kerala Blasters ‣ Mumbai City
-#DPLUS-TIME:2026-10-25,16:45-21:45
-#DPLUS-LINK: English |https://dplus25.blogspot.com/p/l99.html
-#DPLUS-LINK: Malayalam |https://dplus25.blogspot.com/p/l88.html
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/raS61rqsQQI/hq720.jpg" ,  Kerala Blasters ‣ Chennaiyin
+#DPLUS-TIME:2026-10-31,16:45-19:15
+#DPLUS-LINK: English | https://www.youtube.com/embed/raS61rqsQQI
 #DPLUS-LINK: Malayalam |https://dplus25.blogspot.com/p/l77.html
-#DPLUS-LINK: Hindi | 
+#DPLUS-LINK: Malayalam |https://dplus25.blogspot.com/p/l66.html
+#DPLUS-LINK: Hindi | https://www.youtube.com/embed/eyp-0lqcYeE
 
 
 
@@ -86,13 +86,13 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.cricbuzz.com/a/img/v1/1080x608/i1/c1109293/live-sri-lanka-vs-england-odi-tri-series-2026.jpg" , Sri Lanka ‣ England 
-#DPLUS-TIME:2026-10-29,13:20-21:45
+#EXTINF:-1 tvg-logo="https://static.cricbuzz.com/a/img/v1/1200x630/i1/c1111870/live-pakistan-vs-sri-lanka-final-odi-tri-series-2026.jpg" , Sri Lanka ‣ England 
+#DPLUS-TIME:2026-10-31,13:20-21:45
 #DPLUS-LINK: Siya TV | https://mtv-ply.blogspot.com/p/clp.html?url=https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 #DPLUS-LINK:Cricbuzz |https://mtv-ply.blogspot.com/p/clp.html?url=https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #DPLUS-LINK: Amazon Prime | go:ama
 #DPLUS-LINK:Sky Cricket |go:skycri
-#DPLUS-LINK: Willow Cricbuz| go:willow2
+#DPLUS-LINK: Willow Cricbuz| go:willow1
 
 
 
@@ -124,13 +124,13 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://www.the-aiff.com/media/uploads/2026/02/ISL-1-800x500.jpg" ,  I S L 
-#DPLUS-TIME:2026-10-30,19:15-21:45
+#DPLUS-TIME:2026-10-31,19:15-21:45
 https://dplus25.blogspot.com/p/l99.html
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxM_1jyM96uM5auzIVikt53gHxnBGR4bLNR5BhSu3Gpw&s=10" ,  Super League
-#DPLUS-TIME:2026-10-30,19:15-21:45
+#DPLUS-TIME:2026-10-31,19:15-21:45
 https://dplus25.blogspot.com/p/l88.html
 
 
