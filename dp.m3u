@@ -45,12 +45,29 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
+#EXTINF:-1 tvg-logo=" https://ssl.gstatic.com/onebox/media/sports/videos/vita/uISpg5rL4tsIb-uv_768x432.jpg " group-title=" ", Man City ‣ Brighton
+#DPLUS-TIME:2026-10-31,20:20-22:45
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793442591-0-0-cad33640e8142e67bdd0b459aedf8350 
+#DPLUS-LINK: Live 2 | https://sonucdn-v3.pages.dev/star?id=SE1HD
+#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-746673_lhd.m3u8&m=1
+#DPLUS-LINK: Live 4 | https://ww1.sportsonnline.click/channels/pt/eleven1.php
+#DPLUS-LINK: More Live |go:fbl
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfEsugM_VYoDmraqD5nEEncTQx1c9Afodw_baqvsf1dA&s=10 " group-title=" ", Barcelona ‣ Alavés
+#DPLUS-TIME:2026-11-01,01:20-03:45
+#DPLUS-LINK: Live 1 | go:be3a
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793443070-0-0-748e7b91d87b27e9352ea9aec63f0039
+#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-663965_lhd.m3u8&m=1
+#DPLUS-LINK: Live 4 | https://ww1.sportsonnline.click/channels/pt/eleven1.php
+#DPLUS-LINK: More Live |go:fbl
+
+
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg", India ‣ New Zealand 
 #DPLUS-TIME:2026-11-01,11:00-18:00
 #DPLUS-LINK: Willow Cricket | go:willow1
 #DPLUS-LINK: Cricbuzz| https://dplus25.blogspot.com/p/ss6.html
-#DPLUS-LINK:TNT Sports| go:tnt1
+#DPLUS-LINK:TNT Sports| go:tnt3
 #DPLUS-LINK:Sony English |https://sonucdn-v3.pages.dev/star?id=STEN5
 #DPLUS-LINK: Sony Hindi| https://sonucdn-v3.pages.dev/star?id=STEN3
 #DPLUS-LINK: Sony Tamil| https://sonucdn-v3.pages.dev/star?id=STENT
