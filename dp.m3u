@@ -34,28 +34,36 @@ https://strmfree.st/embed/cricket/willow1080p
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
-#EXTINF:-1 tvg-logo=" https://ssl.gstatic.com/onebox/media/sports/videos/vita/-Qf6XNeK7EZEVYld_768x432.jpg " group-title=" ", Chelsea ‣ Man Utd
-#DPLUS-TIME:2026-10-31,17:50-20:15
-#DPLUS-LINK:TNT Sports| go:tnt1
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793439779-0-0-521caa291cfd23708f3c1593ba21df64 
+
+
+
+
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvHmPuunS6fqKSTm4YTApSc4-F8P2vGoEkJgwXNd1rw&s=10 " group-title=" ", Real Madrid ‣ Racing Santander
+#DPLUS-TIME:2026-11-01,20:30-23:00
+#DPLUS-LINK: beIN Sports| go:be3a
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel11.m3u8&m=1
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8&m=1
+#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-584152_lhd.m3u8&m=1
+#DPLUS-LINK: Live 4 | https://ww1.sportsonnline.click/channels/pt/eleven2.php
+#DPLUS-LINK: More Live |go:fbl
+
+
+
+#EXTINF:-1 tvg-logo=" https://ssl.gstatic.com/onebox/media/sports/videos/vita/t9AdU56vnVzninvL_768x432.jpg " group-title=" ", Liverpool ‣ Arsenal
+#DPLUS-TIME:2026-11-01,21:50-23:59
+#DPLUS-LINK: Sky Sports| go:skyp
+#DPLUS-LINK: Live 1 |  https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel15.m3u8&m=1
 #DPLUS-LINK: Live 2 | https://sonucdn-v3.pages.dev/star?id=SE1HD
-#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-746673_lhd.m3u8&m=1
-#DPLUS-LINK: Live 4 | https://ww1.sportsonnline.click/channels/pt/eleven1.php
+#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8&m=1
+#DPLUS-LINK: Live 4 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-746673_lhd.m3u8&m=1
+#DPLUS-LINK: Live 5 | https://ww1.sportsonnline.click/channels/pt/eleven1.php
 #DPLUS-LINK: More Live |go:fbl
 
 
-
-#EXTINF:-1 tvg-logo=" https://ssl.gstatic.com/onebox/media/sports/videos/vita/uISpg5rL4tsIb-uv_768x432.jpg " group-title=" ", Man City ‣ Brighton
-#DPLUS-TIME:2026-10-31,20:20-22:45
-#DPLUS-LINK: Live 1 |  https://sonucdn-v3.pages.dev/star?id=SE1HD
-#DPLUS-LINK: Live 2 | https://trend48.st/event/m-manchester-city-vs-brighton-and-hove-albion-1031
-#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-746673_lhd.m3u8&m=1
-#DPLUS-LINK: Live 4 | https://ww1.sportsonnline.click/channels/pt/eleven1.php
-#DPLUS-LINK: More Live |go:fbl
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfEsugM_VYoDmraqD5nEEncTQx1c9Afodw_baqvsf1dA&s=10 " group-title=" ", Barcelona ‣ Alavés
-#DPLUS-TIME:2026-11-01,01:20-03:45
-#DPLUS-LINK: Live 1 | go:be3a
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR-WtxOTGT5UDPUjdWDgroU6fsZ241cflJAwa6jpy4p47ttxIzfFtwyWr2&s=10 " group-title=" ", Inter Miami ‣ New England
+#DPLUS-TIME:2026-11-02,05:20-08:00
+#DPLUS-LINK: Live 1 | 
 #DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793443070-0-0-748e7b91d87b27e9352ea9aec63f0039
 #DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-663965_lhd.m3u8&m=1
 #DPLUS-LINK: Live 4 | https://ww1.sportsonnline.click/channels/pt/eleven1.php
@@ -117,15 +125,6 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2026/10/21/Screenshot_20261021_093321-3561734528.jpg", Man Utd ‣ Como
-#DPLUS-TIME:2026-10-21,21:45-00:20
-#DPLUS-LINK:TNT Sports |go:tnt2
-#DPLUS-LINK:Sony Sports |https://sonucdn-v3.pages.dev/star?id=STEN2
-#DPLUS-LINK:Live 1| https://dplus25.blogspot.com/p/l11_13.html
-#DPLUS-LINK:Live 2| https://ww1.sportsonnline.click/channels/pt/eleven1.php
-#DPLUS-LINK:More Matches |go:fbl
-https://tinyurl.com/dpluzz
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLewILFow2pC_SdklGLx-SVz1QLL1QoLUPR8akvUXPOw&s=10" group-title=" ",Afghanistan ‣ Zimbabwe 
 #DPLUS-TIME:2026-10-23,16:50-00:59
@@ -144,13 +143,13 @@ https://tinyurl.com/dpluzz
 
 
 #EXTINF:-1 tvg-logo="https://www.the-aiff.com/media/uploads/2026/02/ISL-1-800x500.jpg" ,  I S L 
-#DPLUS-TIME:2026-10-31,19:15-21:45
+#DPLUS-TIME:2026-11-01,16:45-21:45
 https://dplus25.blogspot.com/p/l99.html
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxM_1jyM96uM5auzIVikt53gHxnBGR4bLNR5BhSu3Gpw&s=10" ,  Super League
-#DPLUS-TIME:2026-10-31,19:15-21:45
+#DPLUS-TIME:2026-11-01,19:15-21:45
 https://dplus25.blogspot.com/p/l88.html
 
 
