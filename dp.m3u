@@ -29,8 +29,8 @@ https://tinyurl.com/dpluzz
 https://strmfree.st/embed/cricket/willow1080p
 
 
-#EXTINF:-1 tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/16x9barca-real.jpg?ve=1&tl=1" group-title="loading ",Barcelona ‣ Real Madrid
-#DPLUS-TIME:2026-10-25,20:01-23:59
+#EXTINF:-1 tvg-logo="https://files.sofascore.com/news/2024/12/ucl_cover_16x9-1024x576.jpg" group-title="loading ",Champions League
+#DPLUS-TIME:16:00-23:59
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
@@ -49,18 +49,56 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsvWlHY0BaF_Pn720MaHfG9ORQ9WcX5OeXuYOp_6IyA&s=10 " group-title=" ", Santos ‣ Bragantino
-#DPLUS-TIME:2026-11-03,04:20-07:00
-#DPLUS-LINK:  Sportv| go:spo1
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel20.m3u8&m=1
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-239803_lhd.m3u8&m=1
-#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8
-#DPLUS-LINK: Live 4 | https://ww1.sportsonnline.click/channels/bra/br1.php
+
+#EXTINF:-1 tvg-logo=" https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793168457660484_UCL_26_MD4_Barcelona-vs-Aston-Villa_Promo_Tonight_landscape_thumb.jpg " group-title=" ", Barcelona ‣ Aston Villa
+#DPLUS-TIME:2026-11-04,00:00-04:30
+#DPLUS-LINK: TNT Sports | go:tnt1
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel12.m3u8
+#DPLUS-LINK: Live 2 | https://trend48.st/event/m-barcelona-vs-aston-villa-1103
+#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-557437_lhd.m3u8&m=1
+#DPLUS-LINK: Live 4 | https://sportsoonline.click/channels/pt/eleven2.php
 #DPLUS-LINK: More Live |go:fbl
 
 
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027867/1793371269918937_NZvsIND26_5th_T20I_today_landscape_thumb.jpg", India ‣ New Zealand 
+#EXTINF:-1 tvg-logo=" https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793167294167484_UCL_26_MD4_Atletico-vs-Bayern-Munich_Promo_Tonight_landscape_thumb.jpg " group-title=" ", Atlético ‣ Bayern
+#DPLUS-TIME:2026-11-04,00:00-04:30
+#DPLUS-LINK: TNT Sports | go:tnt2
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel5.m3u8
+#DPLUS-LINK: Live 2 | https://trend48.st/event/m-atletico-madrid-vs-bayern-munich-1103
+#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-896956_lhd.m3u8&m=1
+#DPLUS-LINK: Live 4 | https://sportsoonline.click/channels/pt/eleven3.php
+#DPLUS-LINK: More Live |go:fbl
+
+
+#EXTINF:-1 tvg-logo=" https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793169201288484_UCL_26_MD4_Man-United_vs_Roma_Promo_Tonight_landscape_thumb.jpg " group-title=" ", Man Utd ‣ Roma
+#DPLUS-TIME:2026-11-04,00:00-04:30
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel1.m3u8
+#DPLUS-LINK: Live 2 | https://trend48.st/event/m-manchester-united-vs-as-roma-1103
+#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-746673_lhd.m3u8&m=1
+#DPLUS-LINK: Live 4 | https://sportsoonline.click/channels/pt/eleven1.php
+#DPLUS-LINK: More Live |go:fbl
+
+
+#EXTINF:-1 tvg-logo=" https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027914/1793426668278321_UCL_26_MD4_Villarreal-vs-PSG_Promo_Tonight_landscape_thumb.jpg " group-title=" ", PSG ‣ Villarreal
+#DPLUS-TIME:2026-11-04,00:00-04:30
+#DPLUS-LINK: TNT Sports | go:tnt4
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel18.m3u8
+#DPLUS-LINK: Live 2 | https://trend48.st/event/m-villarreal-vs-paris-saint-germain-1103
+#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-707243_lhd.m3u8&m=1
+#DPLUS-LINK: Live 4 | https://sportsoonline.click/channels/hd/hd5.php
+#DPLUS-LINK: More Live |go:fbl
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedWebthumb/17936125551020x576.jpg", India ‣ New Zealand 
 #DPLUS-TIME:2026-11-04,07:00-20:00
 #DPLUS-LINK: Willow Cricket | go:willow1
 #DPLUS-LINK: Cricbuzz| https://dplus25.blogspot.com/p/ss6.html
