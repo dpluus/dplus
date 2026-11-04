@@ -30,13 +30,13 @@ https://strmfree.st/embed/cricket/willow1080p
 
 
 #EXTINF:-1 tvg-logo="https://files.sofascore.com/news/2024/12/ucl_cover_16x9-1024x576.jpg" group-title="loading ",Champions League
-#DPLUS-TIME:16:00-23:59
+#DPLUS-TIME:20:00-23:59
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedWebthumb/17936125551020x576.jpg" group-title="loading ",India ‣ New Zealand 
-#DPLUS-TIME:04:00-06:59
+#DPLUS-TIME:2026-11-04,04:00-05:59
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
@@ -102,7 +102,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedWebthumb/17936125551020x576.jpg", India ‣ New Zealand 
-#DPLUS-TIME:2026-11-04,07:00-20:00
+#DPLUS-TIME:2026-11-04,06:00-20:00
 #DPLUS-LINK: Willow Cricket | go:willow1
 #DPLUS-LINK: Cricbuzz| https://dplus25.blogspot.com/p/ss6.html
 #DPLUS-LINK:TNT Sports| go:tnt2
@@ -115,7 +115,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedWebthumb/17936125551020x576.jpg", SONY India Only 
-#DPLUS-TIME:2026-11-04,07:00-20:00
+#DPLUS-TIME:2026-11-04,06:00-20:00
 #DPLUS-LINK:Sony English |https://sonucdn-v3.pages.dev/star?id=STEN5
 #DPLUS-LINK: Sony Hindi| https://sonucdn-v3.pages.dev/star?id=STEN3
 #DPLUS-LINK: Sony Tamil| https://sonucdn-v3.pages.dev/star?id=STENT
@@ -127,7 +127,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027941/1793475427256507_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day3_landscape_thumb.jpg" ,  India A ‣ New Zealand A
-#DPLUS-TIME:03:20-11:00
+#DPLUS-TIME:2026-11-04,03:20-11:00
 #DPLUS-LINK: Sony Sports | https://sonucdn-v3.pages.dev/star?id=STEN1
 #DPLUS-LINK: Sony Sports | https://mtv-ply.blogspot.com/p/j.html?url=https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 
