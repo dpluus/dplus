@@ -43,18 +43,8 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" https://assets.khelnow.com/news/uploads/2026/10/49-East-Bengal-vs-AL-Seeb-copy.jpg " group-title=" ", East Bengal ‣ Al-Seeb
-#DPLUS-TIME:2026-11-03,19:00-21:30
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel18.m3u8
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8
-#DPLUS-LINK: Live 3 | go:fn
-#DPLUS-LINK: More Live |go:fbl
-
-
-
-
 #EXTINF:-1 tvg-logo=" https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793176438292484_UCL_26_MD4_AEK_vs_Real-Madrid_Promo_Tonight_landscape_thumb.jpg " group-title=" ", Real Madrid ‣ AEK
-#DPLUS-TIME:2026-11-23,00:00-01:25
+#DPLUS-TIME:2026-11-04,23:00-01:25
 #DPLUS-LINK: TNT Sports | go:tnt3
 #DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel1.m3u8
 #DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-557437_lhd.m3u8&m=1
@@ -66,7 +56,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRovk5dQE16oG7aLg80vXy2pXw_PqZIgCh53AviBSWDfEOIlITQ-rFVfs20&s=10 " group-title=" ", Liverpool ‣ Fenerbahçe
-#DPLUS-TIME:2026-11-23,00:00-01:25
+#DPLUS-TIME:2026-11-04,23:00-01:25
 #DPLUS-LINK: TNT Sports | go:tnt1
 #DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel2.m3u8
 #DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-7466737_lhd.m3u8&m=1
@@ -76,8 +66,11 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #DPLUS-LINK: More Live |go:fbl
 
 
-#EXTINF:-1 tvg-logo=" https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793169201288484_UCL_26_MD4_Man-United_vs_Roma_Promo_Tonight_landscape_thumb.jpg " group-title=" ", Man Utd ‣ Roma
-#DPLUS-TIME:2026-11-04,00:00-04:30
+
+
+#EXTINF:-1 tvg-logo=" https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793176988369484_UCL_26_MD4_RB-Leipzig-vs-man-city_Promo_Tonight_landscape_thumb.jpg " group-title=" ", Man City ‣ RB Leipzig
+#DPLUS-TIME:2026-11-05,00:00-04:30
+#DPLUS-LINK: TNT Sports | go:tnt2
 #DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel1.m3u8
 #DPLUS-LINK: Live 2 | https://trend48.st/event/m-manchester-united-vs-as-roma-1103
 #DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-746673_lhd.m3u8&m=1
@@ -85,8 +78,18 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #DPLUS-LINK: More Live |go:fbl
 
 
-#EXTINF:-1 tvg-logo=" https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027914/1793426668278321_UCL_26_MD4_Villarreal-vs-PSG_Promo_Tonight_landscape_thumb.jpg " group-title=" ", PSG ‣ Villarreal
-#DPLUS-TIME:2026-11-04,00:00-04:30
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMyirNWD_A4QY-1E1JdKKaLkKY4c92nV0AstayJuhGe1ZwcrUeXW0niGWL&s=10 " group-title=" ", Arsenal ‣ Slavia Praha
+#DPLUS-TIME:2026-11-05,00:00-04:30
+#DPLUS-LINK: TNT Sports | go:tnt1
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel18.m3u8
+#DPLUS-LINK: Live 2 | https://trend48.st/event/m-villarreal-vs-paris-saint-germain-1103
+#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-707243_lhd.m3u8&m=1
+#DPLUS-LINK: Live 4 | https://sportsoonline.click/channels/hd/hd5.php
+#DPLUS-LINK: More Live |go:fbl
+
+
+#EXTINF:-1 tvg-logo=" https://static.bongda24h.vn/medias/standard/2026/11/02/tructiep_dortmund_betis-0211223639.jpg " group-title=" ", Dortmund ‣ Real Betis
+#DPLUS-TIME:2026-11-05,00:00-04:30
 #DPLUS-LINK: TNT Sports | go:tnt4
 #DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel18.m3u8
 #DPLUS-LINK: Live 2 | https://trend48.st/event/m-villarreal-vs-paris-saint-germain-1103
