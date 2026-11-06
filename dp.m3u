@@ -86,6 +86,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #DPLUS-LINK: Willow Sports | go:willow
 #DPLUS-LINK: Sony Sports | https://sonucdn-v3.pages.dev/star?id=STEN1
 #DPLUS-LINK: Willow 2 | go:wx
+#DPLUS-LINK:Amazon Prime |go:ama
 #DPLUS-LINK: Sony Sports | https://mtv-ply.blogspot.com/p/j.html?url=https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 
 
@@ -128,8 +129,8 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLewILFow2pC_SdklGLx-SVz1QLL1QoLUPR8akvUXPOw&s=10" group-title=" ",Afghanistan ‣ Zimbabwe 
-#DPLUS-TIME:2026-10-23,16:50-00:59
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeNgepdDAA6PU8f6xedUqtlc3XESPDR5yQQ80UC8Fx&s=10" group-title=" ",Afghanistan ‣ Zimbabwe 
+#DPLUS-11:25-17:30
 #DPLUS-LINK: A Sports |go:asports
 #DPLUS-LINK: Willow Cricket |go:willow1
 #DPLUS-LINK:Fancode|go:fn
