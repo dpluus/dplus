@@ -29,14 +29,10 @@ https://tinyurl.com/dpluzz
 https://strmfree.st/embed/cricket/willow1080p
 
 
-#EXTINF:-1 tvg-logo="https://files.sofascore.com/news/2024/12/ucl_cover_16x9-1024x576.jpg" group-title="loading ",Champions League
-#DPLUS-TIME:2026-11-07,04:00-06:59
-https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedWebthumb/17936125551020x576.jpg" group-title="loading ",India ‣ New Zealand 
-#DPLUS-TIME:2026-11-07,04:00-06:59
+#DPLUS-TIME:2026-11-07,00:00-06:59
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
@@ -62,21 +58,20 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedWebthumb/17936125551020x576.jpg", India ‣ New Zealand 
-#DPLUS-TIME:2026-11-07,06:00-20:00
+#DPLUS-TIME:2026-11-07,07:00-20:00
 #DPLUS-LINK: Willow Cricket | go:willow1
-#DPLUS-LINK: Willow Sports | go:willow
 #DPLUS-LINK: Cricbuzz| https://dplus25.blogspot.com/p/ss6.html
-#DPLUS-LINK:TNT Sports| go:tnt2
+#DPLUS-LINK:TNT Sports| go:tnt4
 #DPLUS-LINK:Live 2| https://dplus25.blogspot.com/p/ss5.html
 #DPLUS-LINK:Live 3| https://dplus25.blogspot.com/p/ss4.html
 #DPLUS-LINK:Live 4| https://dplus25.blogspot.com/p/ss3.html
 #DPLUS-LINK:Live 5| https://dplus25.blogspot.com/p/ss2_28.html
-
+#DPLUS-LINK: Willow Sports | go:willow
 
 
 
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedWebthumb/17936125551020x576.jpg", SONY India Only 
-#DPLUS-TIME:2026-11-07,06:00-20:00
+#DPLUS-TIME:2026-11-07,07:00-20:00
 #DPLUS-LINK:Sony English |https://sonucdn-v3.pages.dev/star?id=STEN5
 #DPLUS-LINK: Sony Hindi| https://sonucdn-v3.pages.dev/star?id=STEN3
 #DPLUS-LINK: Sony Tamil| https://sonucdn-v3.pages.dev/star?id=STENT
@@ -86,9 +81,16 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg" ,  India U19 ‣ Nepal U19
+#DPLUS-TIME:2026-11-06,10:20-20:00
+#DPLUS-LINK: Willow Sports | go:willow
+#DPLUS-LINK: Sony Sports | https://sonucdn-v3.pages.dev/star?id=STEN1
+#DPLUS-LINK: Willow 2 | go:wx
+#DPLUS-LINK: Sony Sports | https://mtv-ply.blogspot.com/p/j.html?url=https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027941/1793475427256507_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day3_landscape_thumb.jpg" ,  India A ‣ New Zealand A
-#DPLUS-TIME:2026-11-03,03:20-11:00
+#DPLUS-TIME:2026-11-07,03:20-11:00
 #DPLUS-LINK: Sony Sports | https://sonucdn-v3.pages.dev/star?id=STEN1
 #DPLUS-LINK: Sony Sports | https://mtv-ply.blogspot.com/p/j.html?url=https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 
@@ -106,9 +108,9 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQheQ2CEc4esjSNbFaORoUjTO9494mpT06wNneRtF9E8g&s=10" group-title=" ", Bangladesh ‣ West Indies 
-#DPLUS-TIME:2026-11-05,08:55-17:00
+#DPLUS-TIME:08:55-17:00
+#DPLUS-LINK: T Sports |go:tsp
 #DPLUS-LINK:Fancode Live |go:fn1
-#DPLUS-LINK:Cricbuzz |https://mtv-ply.blogspot.com/p/clp.html?url=https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 #DPLUS-LINK:Fancode All |go:fn
 
 
@@ -143,7 +145,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.the-aiff.com/media/uploads/2026/02/ISL-1-800x500.jpg" ,  I S L 
-#DPLUS-TIME:2026-11-05,16:45-21:45
+#DPLUS-TIME:2026-11-06,19:15-21:45
 https://dplus25.blogspot.com/p/l99.html
 
 
@@ -236,6 +238,11 @@ https://tvsen5.aynaott.com/willowhd/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="willow2",Willow Cricbuz
 https://strmfree.st/embed/cricket/willow1080p
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="wx",Willow 2
+https://thedaddy.li/stream/stream-598.php
+
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/L2xHyMK9uTWMbezjiHwwc0m0Pc1Iqljy-4DjVuZ50OaMyPZCIhMkrzST7duEzC8tuBuvMLgsgrXhBE_9AwpWndQ" group-title="asports",A Sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.mpd
