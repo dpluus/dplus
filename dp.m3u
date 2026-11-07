@@ -39,18 +39,24 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793176438292484_UCL_26_MD4_AEK_vs_Real-Madrid_Promo_Tonight_landscape_thumb.jpg " group-title=" ", Real Madrid ‣ AEK
-#DPLUS-TIME:2026-11-05,00:00-01:25
-#DPLUS-LINK: TNT Sports | go:tnt3
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel1.m3u8
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-571291_lhd.m3u8&m=1
-#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8
-#DPLUS-LINK: Live 4 | https://sonucdn-v3.pages.dev/star?id=STEN2
+#EXTINF:-1 tvg-logo=" https://ssl.gstatic.com/onebox/media/sports/videos/vita/9RTwZvIickgbZTq5_768x432.jpg " group-title=" ",  Arsenal ‣ Hull City
+#DPLUS-TIME:2026-11-07,20:20-22:45
+#DPLUS-LINK: Live 1 | https://sonucdn-v3.pages.dev/star?id=ST1HD
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel1.m3u8
+#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-597728_lhd.m3u8&m=1
+#DPLUS-LINK: Live 4 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8
 #DPLUS-LINK: Live 5 | https://sportsoonline.click/channels/pt/eleven1.php
 #DPLUS-LINK: More Live |go:fbl
 
 
-
+#EXTINF:-1 tvg-logo=" https://ssl.gstatic.com/onebox/media/sports/videos/vita/-47IteyfTkTClH-N_768x432.jpg " group-title=" ",  Man City ‣ Nottm Forest
+#DPLUS-TIME:2026-11-07,22:50-23:59
+#DPLUS-LINK: Live 1 | https://sonucdn-v3.pages.dev/star?id=ST1HD
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel1.m3u8
+#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-597728_lhd.m3u8&m=1
+#DPLUS-LINK: Live 4 | https://mtv-ply.blogspot.com/p/j.html?url=https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8
+#DPLUS-LINK: Live 5 | https://sportsoonline.click/channels/pt/eleven1.php
+#DPLUS-LINK: More Live |go:fbl
 
 
 
