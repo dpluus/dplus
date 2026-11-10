@@ -102,14 +102,11 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg" ,  India U19 ‣ Pakistan U19
-#DPLUS-TIME:2026-11-08,10:20-17:00
-#DPLUS-LINK: Willow Cricket | go:willow1
-#DPLUS-LINK:Sony English |https://sonucdn-v3.pages.dev/star?id=STEN5
-#DPLUS-LINK: Sony Hindi| https://sonucdn-v3.pages.dev/star?id=STEN3
-#DPLUS-LINK: Sony Tamil| https://sonucdn-v3.pages.dev/star?id=STENT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3bmZrMZ5sOeLiYKt4mBIUlQWra-tBWHg82E4D44LS0n5nXB_BgXss39w&s=10" ,  India U19 ‣ UAE U19
+#DPLUS-TIME:2026-11-10,10:20-17:00
+#DPLUS-LINK:Sony Sports |https://dplus25.blogspot.com/p/l77.html
 #DPLUS-LINK:Amazon Prime |go:ama
-#DPLUS-LINK: Willow Sports | go:willow
+
 
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027941/1793475427256507_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day3_landscape_thumb.jpg" ,  India A ‣ New Zealand A
@@ -131,7 +128,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQheQ2CEc4esjSNbFaORoUjTO9494mpT06wNneRtF9E8g&s=10" group-title=" ", Bangladesh ‣ West Indies 
-#DPLUS-TIME:08:55-16:30
+#DPLUS-TIME:2026-11-07,08:55-16:30
 #DPLUS-LINK: T Sports |go:tsp
 #DPLUS-LINK:Fancode Live |go:fn1
 #DPLUS-LINK:Fancode All |go:fn
@@ -142,8 +139,9 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMofpdmGq3RzEQZtwPvbBc9oUN6xQavtC0PS4j3zd54w&s=10" , Sri Lanka ‣ Pakistan 
 #DPLUS-TIME:09:50-17:00
 #DPLUS-LINK: Siya TV | https://mtv-ply.blogspot.com/p/clp.html?url=https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+#DPLUS-LINK: T Sports |go:tsp
 #DPLUS-LINK: PTV Sports | https://thedaddy.li/stream/stream-450.php
-#DPLUS-LINK: Willow Cricbuz| go:willow1
+#DPLUS-LINK: Willow Cricbuz| go:wx
 #DPLUS-LINK: Amazon Prime | go:ama
 
 
