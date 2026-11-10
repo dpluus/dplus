@@ -10,11 +10,11 @@
 
  
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="sptv1", Sportv 1 
+#EXTINF:-1 tvg-logo="https://tv-guide-listings.co.uk/logosNew/premier-sports-1.png" group-title="pre1", Premier Sport 1 
 #DPLUS-HIDE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-https://abbfz7naaaaaaaamlleqwa446ufun.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C5612AQHiXakt8m5VIg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520114902559?e=2147483647&v=beta&t=gpsPzRKfj148HxTRgEfYfz88P5HVMAhZaoiQCuSpo50" group-title="SPORTS",Bahrain gp
@@ -171,6 +171,12 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #DPLUS-LINK:Fancode Events |go:fn
 
 
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/en/0/05/T10_League_Logo.png" group-title=" ", T10 League
+#DPLUS-TIME:19:00-23:59
+#DPLUS-LINK: A Sports |go:asports
+#DPLUS-LINK: A Sports |go:asports2
+#DPLUS-LINK: Premier Sports |go:pre2
+#DPLUS-LINK: Star Sports | https://sonucdn-v3.pages.dev/star?id=E1HD
 
 
 
@@ -278,6 +284,10 @@ https://thedaddy.li/stream/stream-598.php
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.mpd
 
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/L2xHyMK9uTWMbezjiHwwc0m0Pc1Iqljy-4DjVuZ50OaMyPZCIhMkrzST7duEzC8tuBuvMLgsgrXhBE_9AwpWndQ" group-title="asports2",A Sports 
+https://mtv-ply.blogspot.com/p/clp.html?url=https://live.msnetworks.net/a-sports/master.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" "group-title="tsp" ,  T Sports 
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.mpd
@@ -314,4 +324,16 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sport_TV3_%282023%29.svg" group-title="sptv3", Sportv 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://tv-guide-listings.co.uk/logosNew/premier-sports-1.png" group-title="pre1", Premier Sport 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://tv-guide-listings.co.uk/logosNew/premier-sports-2.png" group-title="pre2", Premier Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
