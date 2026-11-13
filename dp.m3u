@@ -56,7 +56,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794310283638247_UNL26_Italy_vs_France_tonight_landscape_thumb.jpg " group-title=" ",  Italy ‣ France 
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4jqMPX8uTE-_FTsgApTLIUSypFlDx_gHalbNYb8iSA&s " group-title=" ",  Germany ‣ Serbia
 #DPLUS-TIME:2026-11-13,01:00-04:00
 #DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel1.m3u8
 #DPLUS-LINK: beIN Sports| go:be2a
@@ -67,7 +67,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #DPLUS-LINK: More Live |go:fbl
 
 
-#EXTINF:-1 tvg-logo=" https://i.ytimg.com/vi/LGLaMvCGhC4/maxresdefault.jpg " group-title=" ",  Spain ‣ Czechia
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj4IWpzWG3fGfhrZkvSpz6NkaD0v2SVIjytXh7YtYaJQ&s=10 " group-title=" ",  Netherlands ‣ Greece
 #DPLUS-TIME:2026-11-13,01:00-04:00
 #DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel13.m3u8
 #DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://pull.niues.live/live/stream-532081_lhd.m3u8&m=1
@@ -76,16 +76,6 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #DPLUS-LINK: Live 5 | https://sportsoonline.click/channels/pt/sporttv2.php
 #DPLUS-LINK: More Live |go:fbl
 
-
-#EXTINF:-1 tvg-logo=" https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794309212414246_UNL26_england_vs_croatia_tonight_landscape_thumb.jpg " group-title=" ",  England ‣ Croatia 
-#DPLUS-TIME:2026-11-13,01:00-04:00
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel12.m3u8
-#DPLUS-LINK: beIN Sports| go:be3a
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://pull.niues.live/live/stream-622241_lhd.m3u8&m=1
-#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-615204_lhd.m3u8&m=1
-#DPLUS-LINK: Live 4 | https://trend8.st/event/m-england-vs-croatia-1112
-#DPLUS-LINK: Live 5 | https://sportsoonline.click/channels/pt/sporttv3.php
-#DPLUS-LINK: More Live |go:fbl
 
 
 
@@ -100,7 +90,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028665/1794208041683604_NZ_vs_IND_4thODI_Promo_DDT_landscape_thumb.jpg", India ‣ New Zealand 
 #DPLUS-TIME:2026-11-15,06:00-20:00
 #DPLUS-LINK: Willow Cricket | go:willow1
-#DPLUS-LINK:TNT Sports| go:tnt2
+#DPLUS-LINK:TNT Sports| go:tnt3
 #DPLUS-LINK: Cricbuzz HD | https://dplus25.blogspot.com/p/ss6.html
 #DPLUS-LINK:Live 2| https://dplus25.blogspot.com/p/ss5.html
 #DPLUS-LINK:Live 3| https://dplus25.blogspot.com/p/ss4.html
@@ -139,7 +129,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDevLmLXCMy3Ir6PsNDR2XRipZgpf4aCxy7hxNnkb8MQds3tX-JeovcdmJ&s=10" group-title=" ",England ‣ Australia 
-#DPLUS-TIME:2026-11-13,08:50-21:50
+#DPLUS-TIME:2026-11-15,08:50-21:50
 #DPLUS-LINK: TNT Sports | go:tnt1
 #DPLUS-LINK:Fancode Live |go:fn2
 #DPLUS-LINK:Willow Cricket | go:tnt1i
@@ -159,7 +149,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMofpdmGq3RzEQZtwPvbBc9oUN6xQavtC0PS4j3zd54w&s=10" , Sri Lanka ‣ Pakistan 
-#DPLUS-TIME:09:50-17:00
+#DPLUS-TIME:2026-11-17,09:50-17:00
 #DPLUS-LINK: Siya TV | https://mtv-ply.blogspot.com/p/clp.html?url=https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 #DPLUS-LINK: T Sports |go:tsp
 #DPLUS-LINK: PTV Sports | https://thedaddy.li/stream/stream-450.php
@@ -195,7 +185,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/en/0/05/T10_League_Logo.png" group-title=" ", T10 League
-#DPLUS-TIME:19:00-23:59
+#DPLUS-TIME:17:00-23:59
 #DPLUS-LINK: A Sports |go:asports
 #DPLUS-LINK: A Sports |go:asports2
 #DPLUS-LINK: Premier Sports |go:pre2
