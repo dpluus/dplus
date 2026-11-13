@@ -41,7 +41,9 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Z84lktmUPzg/hq720.jpg " group-title="loading ",Argentina ‣ Uruguay
+#DPLUS-TIME:2026-11-14,00:00-04:00
+https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
@@ -57,28 +59,35 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4jqMPX8uTE-_FTsgApTLIUSypFlDx_gHalbNYb8iSA&s " group-title=" ",  Germany ‣ Serbia
-#DPLUS-TIME:2026-11-13,01:00-04:00
+#DPLUS-TIME:2026-11-14,01:00-04:00
 #DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel1.m3u8
 #DPLUS-LINK: beIN Sports| go:be2a
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://pull.niues.live/live/stream-9912116_lhd.m3u8&m=1
-#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-551893_lhd.m3u8&m=1
-#DPLUS-LINK: Live 4 | https://trend8.st/event/m-italy-vs-france-1112
-#DPLUS-LINK: Live 5 | https://sportsoonline.click/channels/pt/sporttv1.php
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-746673_lhd.m3u8&m=1
+#DPLUS-LINK: Live 3 | https://streamxhd.sbs/live1.php?stream=espn
+#DPLUS-LINK: Live 4 | https://sportsoonline.click/channels/pt/sporttv1.php
 #DPLUS-LINK: More Live |go:fbl
 
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj4IWpzWG3fGfhrZkvSpz6NkaD0v2SVIjytXh7YtYaJQ&s=10 " group-title=" ",  Netherlands ‣ Greece
-#DPLUS-TIME:2026-11-13,01:00-04:00
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel13.m3u8
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://pull.niues.live/live/stream-532081_lhd.m3u8&m=1
-#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-707243_lhd.m3u8&m=1
-#DPLUS-LINK: Live 4 | https://trend8.st/event/m-czech-republic-vs-spain-1112
-#DPLUS-LINK: Live 5 | https://sportsoonline.click/channels/pt/sporttv2.php
+#DPLUS-TIME:2026-11-14,01:00-04:00
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel4.m3u8
+#DPLUS-LINK: beIN Sports| go:be3a
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-238362_lhd.m3u8&m=1
+#DPLUS-LINK: Live 3 | https://streamxhd.sbs/live1.php?stream=espn2
+#DPLUS-LINK: Live 4 | https://sportsoonline.click/channels/pt/sporttv2.php
 #DPLUS-LINK: More Live |go:fbl
 
 
 
 
+#EXTINF:-1 tvg-logo=" https://i.ytimg.com/vi/Z84lktmUPzg/hq720.jpg " group-title=" ",  Argentina ‣ Uruguay
+#DPLUS-TIME:2026-11-14,04:00-08:00
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel4.m3u8
+#DPLUS-LINK: Live 2 | https://streamxhd.sbs/live1.php?stream=tycsports
+#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-238362_lhd.m3u8&m=1
+#DPLUS-LINK: Live 4 | 
+https://sportsoonline.click/channels/hd/hd6.php
+#DPLUS-LINK: More Live |go:fbl
 
 
 
