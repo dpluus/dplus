@@ -41,10 +41,22 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028886/1794510102701368_ACC_U19_FINAL_PAK_vs_IND_Promo_landscape_thumb_today.jpg " group-title="loading ", Final 🏆
-#DPLUS-TIME:2026-11-14,00:00-10:00
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Ctbd6JFw-tKIpzcz7mzjZtCrKlfUbXtU7_tac2rLLzLX8M0NUyHPu6Or&s=10 " group-title="loading ", India ‣ Bhutan
+#DPLUS-TIME:2026-11-14,00:00-14:00
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
+#EXTINF:-1 tvg-logo="https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/06/29/1782717250899_nhan-dinh-brazil-vs-nhat-ban-world-cup-2026-03442036.jpeg " group-title="loading ",  Brazil ‣ Japan 
+#DPLUS-TIME:2026-11-14,00:00-15:30
+https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Ctbd6JFw-tKIpzcz7mzjZtCrKlfUbXtU7_tac2rLLzLX8M0NUyHPu6Or&s=10 " group-title=" ",  India ‣ Bhutan
+#DPLUS-TIME:2026-11-14,14:00-17:00
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel7.m3u8
+#DPLUS-LINK: Live 2 | go:tsp
+#DPLUS-LINK: Live 3 | go:tsp
+#DPLUS-LINK: More Live |go:fbl
 
 
 #EXTINF:-1 tvg-logo=" https://assets.khelnow.com/news/uploads/2026/07/NZ-VS-India-Football-Fix-Lead-1.jpg " group-title=" ",  India ‣ New Zealand 
@@ -58,14 +70,16 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4jqMPX8uTE-_FTsgApTLIUSypFlDx_gHalbNYb8iSA&s " group-title=" ",  Germany ‣ Serbia
-#DPLUS-TIME:2026-11-14,01:00-04:00
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel1.m3u8
-#DPLUS-LINK: beIN Sports| go:be2a
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-746673_lhd.m3u8&m=1
-#DPLUS-LINK: Live 3 | https://streamxhd.sbs/live1.php?stream=espn
-#DPLUS-LINK: Live 4 | https://sportsoonline.click/channels/pt/sporttv1.php
+#EXTINF:-1 tvg-logo=" https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/06/29/1782717250899_nhan-dinh-brazil-vs-nhat-ban-world-cup-2026-03442036.jpeg " group-title=" ",  Brazil ‣ Japan
+#DPLUS-TIME:2026-11-14,15:30-18:30
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel11.m3u8
+#DPLUS-LINK:  Sportv | go:sptv1
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-551893_lhd.m3u8&m=1
+#DPLUS-LINK: Live 3 | https://streamxhd.sbs/live1.php?stream=sporttvbr1
+#DPLUS-LINK: Live 4 | https://sportsoonline.click/channels/bra/br1.php
 #DPLUS-LINK: More Live |go:fbl
+
+
 
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj4IWpzWG3fGfhrZkvSpz6NkaD0v2SVIjytXh7YtYaJQ&s=10 " group-title=" ",  Netherlands ‣ Greece
