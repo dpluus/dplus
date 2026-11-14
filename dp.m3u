@@ -45,9 +45,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #DPLUS-TIME:2026-11-14,00:00-14:00
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
-#EXTINF:-1 tvg-logo="https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/06/29/1782717250899_nhan-dinh-brazil-vs-nhat-ban-world-cup-2026-03442036.jpeg " group-title="loading ",  Brazil ‣ Japan 
-#DPLUS-TIME:2026-11-14,00:00-15:30
-https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
+
 
 
 
@@ -71,7 +69,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 #EXTINF:-1 tvg-logo=" https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/06/29/1782717250899_nhan-dinh-brazil-vs-nhat-ban-world-cup-2026-03442036.jpeg " group-title=" ",  Brazil ‣ Japan
-#DPLUS-TIME:2026-11-14,15:30-18:30
+#DPLUS-TIME:2026-11-14,15:00-18:30
 #DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel11.m3u8
 #DPLUS-LINK:  Sportv | go:sptv1
 #DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-551893_lhd.m3u8&m=1
