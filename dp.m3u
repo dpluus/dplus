@@ -99,7 +99,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028925/1794557644318754_NZvsIND_1st_test_promo_landscape_thumb.jpg", India ‣ New Zealand 
 #DPLUS-TIME:2026-11-19,03:00-14:00
 #DPLUS-LINK: Willow Cricket | go:willow1
-#DPLUS-LINK:TNT Sports| go:tnt3
+#DPLUS-LINK:TNT Sports| go:tnt1
 #DPLUS-LINK: Cricbuzz HD | https://dplus25.blogspot.com/p/ss6.html
 #DPLUS-LINK:Live 2| https://dplus25.blogspot.com/p/ss5.html
 #DPLUS-LINK:Live 3| https://dplus25.blogspot.com/p/ss4.html
@@ -129,7 +129,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDevLmLXCMy3Ir6PsNDR2XRipZgpf4aCxy7hxNnkb8MQds3tX-JeovcdmJ&s=10" group-title=" ",England ‣ Australia 
-#DPLUS-TIME:2026-11-15,08:50-21:50
+#DPLUS-TIME:2026-11-18,08:50-21:50
 #DPLUS-LINK: TNT Sports | go:tnt1
 #DPLUS-LINK:Fancode Live |go:fn2
 #DPLUS-LINK:Willow Cricket | go:tnt1i
@@ -139,10 +139,12 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQheQ2CEc4esjSNbFaORoUjTO9494mpT06wNneRtF9E8g&s=10" group-title=" ", Bangladesh ‣ West Indies 
-#DPLUS-TIME:2026-11-07,08:55-16:30
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6LFiF6vUycuh-Evh-9LSivoJjLhtqX5TeSBLKWrvDJTybt3Fc2leQqng&s=10" group-title=" ", Bangladesh ‣ South Africa 
+#DPLUS-TIME:13:20-20:30
 #DPLUS-LINK: T Sports |go:tsp
+#DPLUS-LINK: Sky Sports |go:skym
 #DPLUS-LINK:Fancode Live |go:fn1
+#DPLUS-LINK:Amazon Prime |go:ama
 #DPLUS-LINK:Fancode All |go:fn
 
 
