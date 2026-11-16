@@ -16,6 +16,95 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029154/179474272187082_UNL26_germany_vs_netherlands_tonight_landscape_thumb.jpg " group-title="loading ", Germany ‣ Netherlands
+#DPLUS-SHOW
+#DPLUS-TIME:2026-11-16,00:00-23:59
+https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=" https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029154/179474272187082_UNL26_germany_vs_netherlands_tonight_landscape_thumb.jpg " group-title=" ",  Germany ‣ Netherlands
+#DPLUS-SHOW
+#DPLUS-TIME:2026-11-17,01:00-04:00
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel1.m3u8
+#DPLUS-LINK: beIN Sports| go:be3a
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-551893_lhd.m3u8&m=1
+#DPLUS-LINK: Live 3 | https://sportsoonline.click/channels/pt/sporttv1.php
+#DPLUS-LINK: More Live |go:fbl
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028925/1794557644318754_NZvsIND_1st_test_promo_landscape_thumb.jpg", India ‣ New Zealand 
+#DPLUS-SHOW
+#DPLUS-TIME:2026-11-19,03:00-14:00
+#DPLUS-LINK: Willow Cricket | go:willow1
+#DPLUS-LINK:TNT Sports| go:tnt1
+#DPLUS-LINK: Cricbuzz HD | https://dplus25.blogspot.com/p/ss6.html
+#DPLUS-LINK:Live 2| https://dplus25.blogspot.com/p/ss5.html
+#DPLUS-LINK:Live 3| https://dplus25.blogspot.com/p/ss4.html
+#DPLUS-LINK:Live 4| https://dplus25.blogspot.com/p/ss3.html
+#DPLUS-LINK:Live 5| https://dplus25.blogspot.com/p/ss2_28.html
+#DPLUS-LINK: Willow Sports | go:willow
+
+
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028925/1794557644318754_NZvsIND_1st_test_promo_landscape_thumb.jpg", SONY India Only 
+#DPLUS-SHOW
+#DPLUS-TIME:2026-11-19,03:00-14:00
+#DPLUS-LINK:Sony English |https://sonucdn-v3.pages.dev/star?id=STEN1
+#DPLUS-LINK: Sony Hindi| https://sonucdn-v3.pages.dev/star?id=STEN3
+#DPLUS-LINK: Sony Tamil| https://sonucdn-v3.pages.dev/star?id=STENT
+#DPLUS-LINK:Sony Telugu | https://sonucdn-v3.pages.dev/star?id=STENTU
+#DPLUS-LINK:Sony Kannada | https://sonucdn-v3.pages.dev/star?id=STENK
+#DPLUS-LINK:Sony English | https://sonucdn-v3.pages.dev/star?id=STEN5
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDevLmLXCMy3Ir6PsNDR2XRipZgpf4aCxy7hxNnkb8MQds3tX-JeovcdmJ&s=10" group-title=" ",England ‣ Australia 
+#DPLUS-SHOW
+#DPLUS-TIME:2026-11-18,08:50-21:50
+#DPLUS-LINK: TNT Sports | go:tnt1
+#DPLUS-LINK:Fancode Live |go:fn2
+#DPLUS-LINK:Willow Cricket | go:tnt1i
+#DPLUS-LINK:Cricbuzz | https://hlsplayers.pages.dev/iframe?url=https://freecdn.st/hembedplayer/csstream2/1/960/540
+#DPLUS-LINK:Fancode|go:fn
+#DPLUS-LINK:Amazon Prime |go:ama
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6LFiF6vUycuh-Evh-9LSivoJjLhtqX5TeSBLKWrvDJTybt3Fc2leQqng&s=10" group-title=" ", Bangladesh ‣ South Africa 
+#DPLUS-SHOW
+#DPLUS-TIME:13:20-20:30
+#DPLUS-LINK: T Sports |go:tsp
+#DPLUS-LINK: Sky Sports |go:skycri
+#DPLUS-LINK:Fancode Live |go:fn1
+#DPLUS-LINK:Amazon Prime |go:ama
+#DPLUS-LINK:Fancode All |go:fn
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMofpdmGq3RzEQZtwPvbBc9oUN6xQavtC0PS4j3zd54w&s=10" , Sri Lanka ‣ Pakistan 
+#DPLUS-SHOW
+#DPLUS-TIME:09:50-17:00
+#DPLUS-LINK: Siya TV | https://mtv-ply.blogspot.com/p/clp.html?url=https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+#DPLUS-LINK: T Sports |go:tsp
+#DPLUS-LINK: PTV Sports | https://thedaddy.li/stream/stream-450.php
+#DPLUS-LINK: Willow Cricbuz| go:wx
+#DPLUS-LINK: Amazon Prime | go:ama
+
+
 
 
 
