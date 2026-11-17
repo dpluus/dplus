@@ -16,38 +16,16 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4UKmYmYTAik/hq720.jpg " group-title="loading ", India ‣ Pakistan
+#EXTINF:-1 tvg-logo="https://www.diariopanorama.com/fotos/cache/notas/2026/11/16/1010x567_argentina-costa-rica-573214-182745.jpg " group-title="loading ", Argentina ‣ Costa Rica
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-17,00:00-19:00
+#DPLUS-TIME:2026-11-17,00:00-23:59
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp8iRlEilXbBrgdP5RXG26g4jUhi5lwinrCPvg-yRcAw&s=10 " group-title="loading ", Brazil ‣ Singapore
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029194/1794818469556474_UNL2627_wales_vs_portugal_dated_landscape_thumb.jpg " group-title="loading ", Portugal ‣ Wales
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-17,00:00-15:00
+#DPLUS-TIME:2026-11-17,00:00-23:59
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=" https://i.ytimg.com/vi/4UKmYmYTAik/hq720.jpg " group-title=" ",  India ‣ Pakistan
-#DPLUS-SHOW
-#DPLUS-TIME:2026-11-17,19:00-22:30
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8
-#DPLUS-LINK: T Sports| go:tsp
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://live05.yefpwmc.app/live/75915087_tsc.m3u8
-#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
-#DPLUS-LINK: More Live |go:fbl
-
-
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp8iRlEilXbBrgdP5RXG26g4jUhi5lwinrCPvg-yRcAw&s=10 " group-title=" ",  Brazil ‣ Singapore
-#DPLUS-SHOW
-#DPLUS-TIME:2026-11-17,15:00-18:00
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel15.m3u8
-#DPLUS-LINK:  Sportv | go:sptv1
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-746673_lhd.m3u8&m=1
-#DPLUS-LINK: Live 3 | https://sportsoonline.click/channels/bra/br1.php
-#DPLUS-LINK: More Live |go:fbl
 
 
 
@@ -59,7 +37,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #DPLUS-TIME:2026-11-18,00:00-04:00
 #DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel1.m3u8
 #DPLUS-LINK: beIN Sports| go:be3a
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-551893_lhd.m3u8&m=1
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-500894_lhd.m3u8&m=1
 #DPLUS-LINK: Live 3 | https://sportsoonline.click/channels/pt/sporttv1.php
 #DPLUS-LINK: More Live |go:fbl
 
@@ -68,8 +46,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #EXTINF:-1 tvg-logo=" https://www.diariopanorama.com/fotos/cache/notas/2026/11/16/1010x567_argentina-costa-rica-573214-182745.jpg " group-title=" ",  Argentina ‣ Costa Rica
 #DPLUS-SHOW
 #DPLUS-TIME:2026-11-18,00:00-07:30
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel1.m3u8
-#DPLUS-LINK: beIN Sports| go:be3a
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel11.m3u8
 #DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-551893_lhd.m3u8&m=1
 #DPLUS-LINK: Live 3 | https://sportsoonline.click/channels/hd/hd6.php
 #DPLUS-LINK: More Live |go:fbl
