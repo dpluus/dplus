@@ -16,10 +16,11 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://www.diariopanorama.com/fotos/cache/notas/2026/11/16/1010x567_argentina-costa-rica-573214-182745.jpg " group-title="loading ", Argentina ‣ Costa Rica
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029217/1794841912496711_NZvsIND_1st_test_day1_dated_landscape_thumb.jpg " group-title="loading ", India ‣ New Zealand 
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-17,00:00-23:59
+#DPLUS-TIME:00:00-03:00
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029194/1794818469556474_UNL2627_wales_vs_portugal_dated_landscape_thumb.jpg " group-title="loading ", Portugal ‣ Wales
@@ -55,9 +56,9 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028925/1794557644318754_NZvsIND_1st_test_promo_landscape_thumb.jpg", India ‣ New Zealand 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029217/1794841912496711_NZvsIND_1st_test_day1_dated_landscape_thumb.jpg", India ‣ New Zealand 
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-19,03:00-14:00
+#DPLUS-TIME:03:00-15:00
 #DPLUS-LINK: Willow Cricket | go:willow1
 #DPLUS-LINK:TNT Sports| go:tnt1
 #DPLUS-LINK: Cricbuzz HD | https://dplus25.blogspot.com/p/ss6.html
@@ -69,9 +70,9 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028925/1794557644318754_NZvsIND_1st_test_promo_landscape_thumb.jpg", SONY India Only 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029217/1794841912496711_NZvsIND_1st_test_day1_dated_landscape_thumb.jpg", SONY India Only 
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-19,03:00-14:00
+#DPLUS-TIME:03:00-15:00
 #DPLUS-LINK:Sony English |https://sonucdn-v3.pages.dev/star?id=STEN1
 #DPLUS-LINK: Sony Hindi| https://sonucdn-v3.pages.dev/star?id=STEN3
 #DPLUS-LINK: Sony Tamil| https://sonucdn-v3.pages.dev/star?id=STENT
@@ -85,8 +86,8 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDevLmLXCMy3Ir6PsNDR2XRipZgpf4aCxy7hxNnkb8MQds3tX-JeovcdmJ&s=10" group-title=" ",England ‣ Australia 
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-18,08:50-21:50
-#DPLUS-LINK: TNT Sports | go:tnt1
+#DPLUS-TIME:2026-11-21,13:35-21:50
+#DPLUS-LINK: TNT Sports | go:tnt3
 #DPLUS-LINK:Fancode Live |go:fn2
 #DPLUS-LINK:Willow Cricket | go:tnt1i
 #DPLUS-LINK:Cricbuzz | https://hlsplayers.pages.dev/iframe?url=https://freecdn.st/hembedplayer/csstream2/1/960/540
