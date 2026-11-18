@@ -23,9 +23,9 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029194/1794818469556474_UNL2627_wales_vs_portugal_dated_landscape_thumb.jpg " group-title="loading ", Portugal ‣ Wales
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/3mv54pzvptwz/4s7NEwSXirlFw0O2iuUQRo/64dfc23fd24680adb69403481692849a/presskit_capa_site_coritiba_x_santos.jpg " group-title="loading ",  Santos ‣ Coritiba
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-17,00:00-23:59
+#DPLUS-TIME:2026-11-19,00:00-23:59
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
@@ -33,13 +33,12 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029194/1794818469556474_UNL2627_wales_vs_portugal_dated_landscape_thumb.jpg " group-title=" ",  Portugal ‣ Wales
+#EXTINF:-1 tvg-logo=" https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029194/1794818469556474_UNL2627_wales_vs_portugal_dated_landscape_thumb.jpg " group-title=" ",  Santos ‣ Coritiba
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-18,00:00-04:00
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel1.m3u8
-#DPLUS-LINK: beIN Sports| go:be3a
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-500894_lhd.m3u8&m=1
-#DPLUS-LINK: Live 3 | https://sportsoonline.click/channels/pt/sporttv1.php
+#DPLUS-TIME:2026-11-19,03:40-07:00
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel17.m3u8
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-716182_lhd.m3u8&m=1
+#DPLUS-LINK: Live 3 | https://sportsoonline.click/channels/bra/br5.php
 #DPLUS-LINK: More Live |go:fbl
 
 
