@@ -80,7 +80,12 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #DPLUS-LINK:Sony English | https://sonucdn-v3.pages.dev/star?id=STEN5
 
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLoG-YgQKce8-AlwuYDd7hi0LTFcN_AyAK_JyYdxZ1sAWKIHwiPxFZRG-3&s=10" group-title=" ", Asia Cup
+#DPLUS-SHOW
+#DPLUS-TIME:11:20-21:30
+#DPLUS-LINK: Sony Sports | https://sonucdn-v3.pages.dev/star?id=STEN2
+#DPLUS-LINK: AF Sports | https://dplus25.blogspot.com/p/l11_13.html?m=1
+#DPLUS-LINK:Amazon Prime |go:ama
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDevLmLXCMy3Ir6PsNDR2XRipZgpf4aCxy7hxNnkb8MQds3tX-JeovcdmJ&s=10" group-title=" ",England ‣ Australia 
