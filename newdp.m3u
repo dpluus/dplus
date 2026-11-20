@@ -8,13 +8,13 @@
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxM_1jyM96uM5auzIVikt53gHxnBGR4bLNR5BhSu3Gpw&s=10" ,  Super League
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-20,19:15-21:45
+#DPLUS-TIME:2026-11-21,19:15-21:45
 https://dplus25.blogspot.com/p/l88.html
 
 
 #EXTINF:-1 tvg-logo="https://www.the-aiff.com/media/uploads/2026/02/ISL-1-800x500.jpg" ,  I S L 
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-20,16:45-21:45
+#DPLUS-TIME:2026-11-21,16:45-21:45
 https://dplus25.blogspot.com/p/l99.html
 
 
@@ -45,12 +45,11 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" https://images.ctfassets.net/3mv54pzvptwz/4s7NEwSXirlFw0O2iuUQRo/64dfc23fd24680adb69403481692849a/presskit_capa_site_coritiba_x_santos.jpg " group-title=" ",  Santos ‣ Coritiba
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoptuJ5dXJqibibEeM0ZKv55fpl6HFXlArlP82WyRmhz2ef458L1Zul8&s=10 " group-title=" ",  Al-Nassr ‣ Al-Ahli
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-19,03:40-07:00
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel17.m3u8
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-716182_lhd.m3u8&m=1
-#DPLUS-LINK: Live 3 | https://sportsoonline.click/channels/bra/br5.php
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://flv.lauthaitv.cc/live/ahli-nassr-ksapro.flv
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel6.m3u8
+#DPLUS-LINK: Live 3 | https://sportsoonline.click/channels/pt/sporttv1.php
 #DPLUS-LINK: More Live |go:fbl
 
 
