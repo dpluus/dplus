@@ -69,7 +69,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029344/1795027876381725_NZvsIND_1st_test_day1_today_landscape_thumb.jpg", India ‣ New Zealand 
 #DPLUS-SHOW
-#DPLUS-TIME:03:00-15:00
+#DPLUS-TIME:03:00-14:00
 #DPLUS-LINK: Willow Cricket | go:willow1
 #DPLUS-LINK:TNT Sports| go:tnt1
 #DPLUS-LINK: Cricbuzz HD | https://dplus25.blogspot.com/p/ss6.html
@@ -83,7 +83,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029344/1795027876381725_NZvsIND_1st_test_day1_today_landscape_thumb.jpg", SONY India Only 
 #DPLUS-SHOW
-#DPLUS-TIME:03:00-15:00
+#DPLUS-TIME:03:00-14:00
 #DPLUS-LINK:Sony English |https://sonucdn-v3.pages.dev/star?id=STEN1
 #DPLUS-LINK: Sony Hindi| https://sonucdn-v3.pages.dev/star?id=STEN3
 #DPLUS-LINK: Sony Tamil| https://sonucdn-v3.pages.dev/star?id=STENT
@@ -95,8 +95,10 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLoG-YgQKce8-AlwuYDd7hi0LTFcN_AyAK_JyYdxZ1sAWKIHwiPxFZRG-3&s=10" group-title=" ", Asia Cup
 #DPLUS-SHOW
 #DPLUS-TIME:11:20-21:30
-#DPLUS-LINK: Sony Sports | https://sonucdn-v3.pages.dev/star?id=STEN2
+#DPLUS-LINK: Sony Sports | https://sonucdn-v3.pages.dev/star?id=STEN1
+#DPLUS-LINK: Willow Cricket | go:willow2
 #DPLUS-LINK: AF Sports | https://dplus25.blogspot.com/p/l11_13.html?m=1
+#DPLUS-LINK: Sony Sports | https://sonucdn-v3.pages.dev/star?id=STEN2
 #DPLUS-LINK:Amazon Prime |go:ama
 
 
@@ -123,15 +125,6 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMofpdmGq3RzEQZtwPvbBc9oUN6xQavtC0PS4j3zd54w&s=10" , Sri Lanka ‣ Pakistan 
-#DPLUS-SHOW
-#DPLUS-TIME:09:50-17:00
-#DPLUS-LINK: Siya TV | https://mtv-ply.blogspot.com/p/clp.html?url=https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
-#DPLUS-LINK: T Sports |go:tsp
-#DPLUS-LINK: PTV Sports | https://thedaddy.li/stream/stream-450.php
-#DPLUS-LINK: Willow Cricbuz| go:wx
-#DPLUS-LINK: Amazon Prime | go:ama
 
 
 
@@ -227,7 +220,7 @@ https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6b
 https://tvsen5.aynaott.com/willowhd/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="willow2",Willow Cricbuz
-https://strmfree.st/embed/cricket/willow1080p
+https://trend8.st/live-tv?ch=willow2-usa
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="wx",Willow 2
