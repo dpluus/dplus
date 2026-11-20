@@ -35,9 +35,9 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/3mv54pzvptwz/4s7NEwSXirlFw0O2iuUQRo/64dfc23fd24680adb69403481692849a/presskit_capa_site_coritiba_x_santos.jpg " group-title="loading ",  Santos ‣ Coritiba
+#EXTINF:-1 tvg-logo="https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/01/14/1768383972182_koln_vs_bayern_zztt.jpeg " group-title="loading ",  Bayern ‣ Köln
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-19,00:00-02:59
+#DPLUS-TIME:2026-11-20,00:00-23:59
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
@@ -54,12 +54,13 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" https://www.diariopanorama.com/fotos/cache/notas/2026/11/16/1010x567_argentina-costa-rica-573214-182745.jpg " group-title=" ",  Argentina ‣ Costa Rica
+#EXTINF:-1 tvg-logo=" https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/01/14/1768383972182_koln_vs_bayern_zztt.jpeg " group-title=" ",  Bayern ‣ Köln
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-18,00:00-07:30
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel11.m3u8
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-551893_lhd.m3u8&m=1
-#DPLUS-LINK: Live 3 | https://sportsoonline.click/channels/hd/hd6.php
+#DPLUS-TIME:2026-11-21,00:00-03:10
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://flv.lauthaitv.cc/live/bayern-koln-bun.flv
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel1.m3u8
+#DPLUS-LINK:  Sportv | go:sptv1
+#DPLUS-LINK: Live 3 | https://sportsoonline.click/channels/pt/eleven1.php
 #DPLUS-LINK: More Live |go:fbl
 
 
