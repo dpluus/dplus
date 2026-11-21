@@ -49,12 +49,13 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/01/14/1768383972182_koln_vs_bayern_zztt.jpeg " group-title=" ",  Bayern ‣ Köln
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdjIIVK46QQJ5B_0eVRtxKRJJ0YA8sEolOrbJTXC9BHg&s=10 " group-title=" ",  Man City ‣ Fulham
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-21,00:00-03:10
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://flv.lauthaitv.cc/live/bayern-koln-bun.flv
+#DPLUS-TIME:2026-11-21,17:50-20:10
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://flv.lauthaitv.cc/live/mnc-ful-prem.flv
 #DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel1.m3u8
-#DPLUS-LINK:  Sportv | go:sptv1
+#DPLUS-LINK:TNT Sports| go:tnt1
+#DPLUS-LINK:TNT Sports ios | go:tnt1i
 #DPLUS-LINK: Live 3 | https://sportsoonline.click/channels/pt/eleven1.php
 #DPLUS-LINK: More Live |go:fbl
 
