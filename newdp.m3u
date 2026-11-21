@@ -42,43 +42,50 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="   " group-title="loading ",  Real Madrid ‣ Celta vigo 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWFour4NGuM7EQovgfgeSkECiAsZRc1i_Z3iK95SXf7pweQwk_PPQRMK4&s=10   " group-title="loading ",  Real Madrid ‣ Celta vigo 
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-22,00:00-14:59
+#DPLUS-TIME:2026-11-22,00:00-01:00
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
-#EXTINF:-1 tvg-logo="   " group-title="loading ",  Inter Miami ‣ Colombus 
+#EXTINF:-1 tvg-logo=" https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/gma3dp5fmb5ljbm3ctaz.png  " group-title="loading ",  Inter Miami ‣ Colombus 
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-22,00:00-14:59
+#DPLUS-TIME:2026-11-22,00:00-04:00
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdjIIVK46QQJ5B_0eVRtxKRJJ0YA8sEolOrbJTXC9BHg&s=10 " group-title=" ",  Man City ‣ Fulham
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWFour4NGuM7EQovgfgeSkECiAsZRc1i_Z3iK95SXf7pweQwk_PPQRMK4&s=10 " group-title=" ",  Real Madrid ‣ Celta vigo  
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-21,17:50-20:10
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://flv.lauthaitv.cc/live/mnc-ful-prem.flv
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel1.m3u8
-#DPLUS-LINK:TNT Sports| go:tnt1
-#DPLUS-LINK:TNT Sports ios | go:tnt1i
+#DPLUS-TIME:2026-11-22,01:00-04:00
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://flv.lauthaitv.cc/live/real-celta-laliga.flv
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel5.m3u8
 #DPLUS-LINK: Live 3 | https://sportsoonline.click/channels/pt/eleven1.php
 #DPLUS-LINK: More Live |go:fbl
 
 
-#EXTINF:-1 tvg-logo="  https://ssl.gstatic.com/onebox/media/sports/videos/vita/e3OG1Mcu-6zb9vJL_768x432.jpg " group-title=" ",  Chelsea ‣ Leeds 
+
+#EXTINF:-1 tvg-logo="  https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/gma3dp5fmb5ljbm3ctaz.png " group-title=" ",  Inter Miami ‣ Colombus 
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-21,20:20-22:40
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://flv.lauthaitv.cc/live/che-lee-prem.flv
+#DPLUS-TIME:2026-11-22,04:00-07:30
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://flv.lauthaitv.cc/live/miami-columbus-mls.flv
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel12.m3u8
+#DPLUS-LINK: Live 3 | https://sportsoonline.click/channels/hd/hd8.php
+#DPLUS-LINK: More Live |go:fbl
+
+
+
+#EXTINF:-1 tvg-logo="  https://ssl.gstatic.com/onebox/media/sports/videos/vita/JTPKE-NYh44OMSCk_768x432.jpg " group-title=" ",  Arsenal ‣ Newcastle
+#DPLUS-SHOW
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://flv.lauthaitv.cc/live/new-ars-prem.flv
 #DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.jorvakstreamcache.com/live/channel1.m3u8
 #DPLUS-LINK: Live 3 | https://sportsoonline.click/channels/pt/eleven1.php
 #DPLUS-LINK: More Live |go:fbl
+
+
+
+
 
 
 
@@ -283,6 +290,7 @@ https://abbfz7naaaaaaaamlleqwa446ufun.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sport_TV3_%282023%29.svg" group-title="sptv3", Sportv 3
