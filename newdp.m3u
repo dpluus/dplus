@@ -38,9 +38,9 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKlnqAt4s68HSNeiZ1nRiMZSOnipFgRmjz_sO9ou5XFw&s  " group-title="loading ",  Barcelona ‣ Villarreal
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Wt_mk7VMF-xo1AXVkvd8--MTZ1FE-xKOBoAJ1T1ZR86MKxBMzmks0l0&s=10  " group-title="loading ",  Santos ‣ Grêmio
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-22,17:45-18:20
+#DPLUS-TIME:2026-11-24,00:00-05:15
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
@@ -52,13 +52,13 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKlnqAt4s68HSNeiZ1nRiMZSOnipFgRmjz_sO9ou5XFw&s " group-title=" ",  Barcelona ‣ Villarreal  
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Wt_mk7VMF-xo1AXVkvd8--MTZ1FE-xKOBoAJ1T1ZR86MKxBMzmks0l0&s=10 " group-title=" ",  Santos ‣ Grêmio  
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-22,18:20-20:40
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://flv.lauthaitv.cc/live/barce-villa-laliga.flv
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live2.tanrixstreamorigin.com/live/channel1.flv
-#DPLUS-LINK: Premiere Sports | go:pre1
-#DPLUS-LINK: Live 3 | https://sportsoonline.click/channels/pt/eleven1.php
+#DPLUS-TIME:2026-11-24,05:15-08:00
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://flv.lauthaitv.cc/live/santos-gremio-brasa.flv
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live200.kravonstreamdelivery.com/live/channel21.flv
+#DPLUS-LINK:  Sportv | go:sptv1
+#DPLUS-LINK: Live 3 | https://sportsoonline.click/channels/bra/br1.php
 #DPLUS-LINK: More Live |go:fbl
 
 
@@ -256,6 +256,9 @@ https://mtv-ply.blogspot.com/p/clp.html?url=https://live.msnetworks.net/a-sports
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" "group-title="tsp" ,  T Sports 
 https://tvsen5.aynaott.com/TnMn5kZz8/index.mpd
+
+#EXTINF:-1 tvg-logo=" " "group-title="ptv" ,  PTV Sports 
+https://mtv-ply.blogspot.com/p/clp.html?url=https://live.msnetworks.net/ptv-sports/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" ,  beIN Sports 
