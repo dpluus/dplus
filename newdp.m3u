@@ -54,7 +54,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKzIEDOJSmszs0lwSmxz6G0P4g19CppWLGeJv6Yfh6VSUtNP64Eoei9w&s=10 " group-title=" ",  Barcelona ‣ Sabah  
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-25,23:00-23:59
+#DPLUS-TIME:2026-11-26,00:00-01:20
 #DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://flv.lauthaitv.cc/live/sabah-barce-c1.flv
 #DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live3979.zundrixmediapipeline.com/live/channel1.m3u8
 #DPLUS-LINK:  TNT Sports | go:tnt4
@@ -64,14 +64,10 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="  https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5808/1795264945808-h " group-title=" ",  Liverpool ‣ Man Utd 
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTptRs5t047iaCK7oRyTdFGqcYI_ebPECBeZ9CCmbs8UHL0SUXhPsEQgRtV&s=10 " group-title=" ",  Champions League 
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-22,21:45-23:59
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://flv.lauthaitv.cc/live/liv-mnu-prem-ram.flv
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://flv.lauthaitv.cc/live/liv-mnu-prem-bac.flv
-#DPLUS-LINK: Star Sports | https://sonucdn-v3.pages.dev/star?id=ST1HD
-#DPLUS-LINK: Live 3 | https://mtv-ply.blogspot.com/p/j.html?url=https://hwyypull.ncctrials.com/live/stream-746673_lhd.m3u8
-#DPLUS-LINK: Live 4 | https://sportsoonline.click/channels/pt/eleven1.php
+#DPLUS-TIME:2026-11-26,01:15-04:30
+#DPLUS-LINK: Watch Live | go:fbl
 #DPLUS-LINK: More Live |go:fbl
 
 
@@ -109,9 +105,9 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #DPLUS-LINK:Sony English | https://sonucdn-v3.pages.dev/star?id=STEN5
 
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029923/179559235760653_ACRS26_SF_SL_A_vs_IND_A_dated_landscape_thumb.jpg" group-title=" ",  Outside India 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029923/179559236559053_ACRS26_SF_SL_A_vs_IND_A_today_landscape_thumb.jpg" group-title=" ",  Outside India 
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-26,11:30-21:45
+#DPLUS-TIME:2026-11-26,15:00-21:45
 #DPLUS-LINK: Willow Sports | go:willow
 #DPLUS-LINK: Willow Cricket 1 | go:willow1
 #DPLUS-LINK: PTV Sports | go:ptv
