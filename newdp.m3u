@@ -8,7 +8,7 @@
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxM_1jyM96uM5auzIVikt53gHxnBGR4bLNR5BhSu3Gpw&s=10" ,  Super League
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-25,19:15-21:49
+#DPLUS-TIME:2026-11-25,19:15-21:45
 https://dplus25.blogspot.com/p/l88.html
 
 
@@ -44,21 +44,22 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
-#EXTINF:-1 tvg-logo=" https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5808/1795264945808-h  " group-title="loading ",  Liverpool ‣ Man Utd
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKzIEDOJSmszs0lwSmxz6G0P4g19CppWLGeJv6Yfh6VSUtNP64Eoei9w&s=10  " group-title="loading ",  Barcelona ‣ Sabah
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-22,21:30-21:45
+#DPLUS-TIME:2026-11-25,22:30-23:00
 https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Wt_mk7VMF-xo1AXVkvd8--MTZ1FE-xKOBoAJ1T1ZR86MKxBMzmks0l0&s=10 " group-title=" ",  Santos ‣ Grêmio  
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKzIEDOJSmszs0lwSmxz6G0P4g19CppWLGeJv6Yfh6VSUtNP64Eoei9w&s=10 " group-title=" ",  Barcelona ‣ Sabah  
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-24,05:15-08:00
-#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://flv.lauthaitv.cc/live/santos-gremio-brasa.flv
-#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live200.kravonstreamdelivery.com/live/channel21.flv
-#DPLUS-LINK:  Sportv | go:sptv1
-#DPLUS-LINK: Live 3 | https://sportsoonline.click/channels/bra/br1.php
+#DPLUS-TIME:2026-11-25,23:00-23:59
+#DPLUS-LINK: Live 1 | https://mtv-ply.blogspot.com/p/clp.html?url=https://flv.lauthaitv.cc/live/sabah-barce-c1.flv
+#DPLUS-LINK: Live 2 | https://mtv-ply.blogspot.com/p/clp.html?url=https://live3979.zundrixmediapipeline.com/live/channel1.m3u8
+#DPLUS-LINK:  TNT Sports | go:tnt4
+#DPLUS-LINK:  Hindi 🔥 | https://mtv-ply.blogspot.com/p/clp.html?url=https://r2.amml.in/sony-ten-3-hd/live.m3u8
+#DPLUS-LINK: Live 3 | https://sporrtsonline.top/channels/pt/eleven1.php
 #DPLUS-LINK: More Live |go:fbl
 
 
@@ -108,9 +109,9 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #DPLUS-LINK:Sony English | https://sonucdn-v3.pages.dev/star?id=STEN5
 
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029548/1795238001561761_ASIACUP_INDvsUAE_promo_dated_landscape_thumb.jpg" group-title=" ",  Outside India 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029923/179559235760653_ACRS26_SF_SL_A_vs_IND_A_dated_landscape_thumb.jpg" group-title=" ",  Outside India 
 #DPLUS-SHOW
-#DPLUS-TIME:2026-11-23,11:30-21:45
+#DPLUS-TIME:2026-11-26,11:30-21:45
 #DPLUS-LINK: Willow Sports | go:willow
 #DPLUS-LINK: Willow Cricket 1 | go:willow1
 #DPLUS-LINK: PTV Sports | go:ptv
