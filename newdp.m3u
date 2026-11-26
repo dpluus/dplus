@@ -116,7 +116,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #DPLUS-LINK: Cricbuzz HD | https://freecdn.st/hembedplayer/csstream8/1/960/540
 #DPLUS-LINK: Willow Sports | https://thedaddy.li/stream/stream-346.php
 #DPLUS-LINK: Sony Sports | https://sonucdn-v3.pages.dev/star?id=STEN1
-#DPLUS-LINK: Willow Cricket 1 | go:willow1
+#DPLUS-LINK: Willow Cricket 3 | go:willow3
 
 
 
@@ -235,6 +235,9 @@ https://tvsen5.aynaott.com/willowhd/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="willow2",Willow Cricbuz
 https://trend8.st/live-tv?ch=willow2-usa
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="willow3",Willow 3
+https://mtv-ply.blogspot.com/p/clp.html?url=https://rakettv.uk/api/sp/kJq6zt7djbGCyHWLJXylD52g2tuYA4ile0zepwjkvr0d2g9ufR1KMISUfC0IfrvFamvG-mp_L5XH1BoaBLJFdm60yBscojxYRD9qQytcgPeQrF0Piq3e3w-IJD3LWy4ttZiD4y2v4xVLj6Y7naZUZfUhv57PvfBOfRW4mfMsQwnmELLAtc0UCR0MHSLSoLar-27oDAjNqC8C9VKS34O2QEqz_D3_VypxAVeqr-E7uPuW-mFMK4kCM8dhzE95_YNHjEmoa3U72nwfNNPt0b6BFCKCMLxy6NWWbd30Gv-s5VR_7kWpfAooYuY_Uix2Vu0hbNu6nUMeUYP9mCI8xiTcWYwanQBBV8fu5_uZJsfF7TDVSWthVFp2L7jV4CIKnbOJetfnTEg4U7BYzInLM0AsNyCM_ZX2YCMM5NARjh7_X4lcH8tlCELrog.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="wx",Willow 2
