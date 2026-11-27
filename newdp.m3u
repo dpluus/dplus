@@ -122,8 +122,9 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDevLmLXCMy3Ir6PsNDR2XRipZgpf4aCxy7hxNnkb8MQds3tX-JeovcdmJ&s=10" group-title=" ",England ‣ Australia 
 #DPLUS-SHOW
 #DPLUS-TIME:2026-11-27,13:35-21:50
+#DPLUS-LINK: Ten Sports | go:10c
 #DPLUS-LINK: TNT Sports | go:tnt1
-#DPLUS-LINK:Fancode Live |go:fn2
+#DPLUS-LINK:Fancode Live |go:fn1
 #DPLUS-LINK:Willow Cricket | go:tnt1i
 #DPLUS-LINK:Cricbuzz | https://freecdn.st/hembedplayer/csstream2/1/960/540
 
@@ -254,9 +255,6 @@ https://mtv-ply.blogspot.com/p/clp.html?url=https://live.msnetworks.net/a-sports
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" "group-title="tsp" ,  T Sports 
 https://tvsen5.aynaott.com/TnMn5kZz8/index.mpd
 
-#EXTINF:-1 tvg-logo=" " "group-title="ptv" ,  PTV Sports 
-https://mtv-ply.blogspot.com/p/clp.html?url=https://live.msnetworks.net/ptv-sports/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" ,  beIN Sports 
 https://mtv-ply.blogspot.com/p/j.html?url=https://bein-esp-xumo.amagi.tv/playlist.m3u8
@@ -303,3 +301,14 @@ https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vwq77hfgzw/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-logo=" " "group-title="ptv" ,  PTV Sports 
+https://mtv-ply.blogspot.com/p/clp.html?url=https://live.msnetworks.net/ptv-sports/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=" " "group-title="10c" ,  Ten Sports 
+https://mtv-ply.blogspot.com/p/clp.html?url=https://live.msnetworks.net/ten-sports/master.m3u8
+
