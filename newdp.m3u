@@ -125,7 +125,7 @@ https://mtv-ply.blogspot.com/p/j.html?url=https://file.genoads.com/ch1.m3u8
 #DPLUS-LINK: Ten Sports | go:10c
 #DPLUS-LINK: TNT Sports | go:tnt1
 #DPLUS-LINK:Fancode Live |go:fn1
-#DPLUS-LINK:Willow Cricket | go:tnt1i
+#DPLUS-LINK:Willow Cricket | go:tr1
 #DPLUS-LINK:Cricbuzz | https://freecdn.st/hembedplayer/csstream2/1/960/540
 
 
@@ -232,14 +232,16 @@ https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6b
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="willow1",Willow Cricbuz
 https://tvsen5.aynaott.com/willowhd/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="willow2",Willow Cricbuz
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="tr1",Willow Tr 1
+https://trend8.st/live-tv?ch=willow-usa
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="tr2",Willow Tr 2
 https://trend8.st/live-tv?ch=willow2-usa
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="willow3",Willow 3
-https://mtv-ply.blogspot.com/p/clp.html?url=https://rakettv.uk/api/sp/kJq6zt7djbGCyHWLJXylD52g2tuYA4ile0zepwjkvr0d2g9ufR1KMISUfC0IfrvFamvG-mp_L5XH1BoaBLJFdm60yBscojxYRD9qQytcgPeQrF0Piq3e3w-IJD3LWy4ttZiD4y2v4xVLj6Y7naZUZfUhv57PvfBOfRW4mfMsQwnmELLAtc0UCR0MHSLSoLar-27oDAjNqC8C9VKS34O2QEqz_D3_VypxAVeqr-E7uPuW-mFMK4kCM8dhzE95_YNHjEmoa3U72nwfNNPt0b6BFCKCMLxy6NWWbd30Gv-s5VR_7kWpfAooYuY_Uix2Vu0hbNu6nUMeUYP9mCI8xiTcWYwanQBBV8fu5_uZJsfF7TDVSWthVFp2L7jV4CIKnbOJetfnTEg4U7BYzInLM0AsNyCM_ZX2YCMM5NARjh7_X4lcH8tlCELrog.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="wx",Willow 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-XTu1_KT_KCpVGZ6rdE8tT34XQ8CqrCr1gCBlIp_AQ&s=10" group-title="wx",Willow x
 https://thedaddy.li/stream/stream-598.php
 
 
